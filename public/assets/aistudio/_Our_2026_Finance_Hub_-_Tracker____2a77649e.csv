@@ -1,0 +1,843 @@
+Menu,TRANSACTION TRACKER LOG  -  Type everything here,,,,,,,,,,,,
+Tracker Log,"Add new transactions at the bottom. Type the DESCRIPTION, then pick SUB-DESCRIPTION and ACCOUNT from the drop-downs. CATEGORY fills in by itself from the description. The last column (SUB-CATEGORY) still feeds the Dashboard, so pick it too.   |   CHARGED = money out   |   CREDITED = money in / payments / returns",,,,,,,,,,,,
+Filter Log,DATE,CHARGED,CREDITED,DESCRIPTION,CATEGORY,SUB-DESCRIPTION,ACCOUNT,NOTES,BALANCE,SUB-CATEGORY,,KEY (helper),REPORT CATEGORY (helper)
+Cal Setup,"Jan 1, 2026",$10.49,,Target,Expenses,Personal,PNC Credit Card,,"$2,026.69",Shopping,,PNC Credit Card|1,Shopping
+Payment Schedule,"Jan 1, 2026",,"$1,015.00",PNC Credit Card Payment,Bills,Payment,PNC Credit Card,Payment from PNC Checking,"$1,011.69",Credit Card Payment,,PNC Credit Card|2,Transfers
+Calendar 1,"Jan 2, 2026",,"$1,229.30",Transfer from PNC Money Market,Transfer,Deposit=Checking,PNC Checking,Matches PNC Money Market,"$2,603.10",Transfer,,PNC Checking|1,Transfers
+Calendar 2,"Jan 2, 2026","$1,015.00",,PNC Credit Card Payment,Bills,Payment,PNC Checking,Pays PNC Credit Card (...2106),"$1,588.10",Credit Card Payment,,PNC Checking|2,Transfers
+Sync Map,"Jan 2, 2026",$85.00,,WI DOT Vehicle Fees,Bills,Payment,PNC Checking,Jeep Cherokee,"$1,503.10",Vehicle & Auto,,PNC Checking|3,Transportation
+Account Breakdown,"Jan 2, 2026",$85.00,,WI DOT Vehicle Fees,Bills,Payment,PNC Checking,Mitsubishi Outlander,"$1,418.10",Vehicle & Auto,,PNC Checking|4,Transportation
+Accounts:,"Jan 2, 2026","$1,229.30",,Transfer to PNC Checking,Transfer,Deposit=Checking,PNC Money Market,Matches PNC Checking,"$143,000.00",Transfer,,PNC Money Market|1,Transfers
+PNC Money Market,"Jan 3, 2026",$36.90,,Amazon,Expenses,Personal,PNC Credit Card,,"$1,048.59",Shopping,,PNC Credit Card|3,Shopping
+PNC Checking,"Jan 5, 2026",$150.00,,ATM / Cash Withdrawal,Debts,Cigs,PNC Checking,,"$1,268.10",Cash Withdrawal,,PNC Checking|5,Cash & Checks
+PNC Credit Card,"Jan 5, 2026",$16.76,,Aldi,Expenses,Groceries,PNC Credit Card,,"$1,065.35",Groceries,,PNC Credit Card|4,Food
+US Bank Checking,"Jan 5, 2026",$21.79,,Target,Expenses,Groceries,PNC Credit Card,,"$1,087.14",Shopping,,PNC Credit Card|5,Shopping
+US Bank Savings,"Jan 6, 2026",,$19.71,Walmart (Return),Income,Walmart Return,PNC Credit Card,Return / refund,"$1,067.43",Return's,,PNC Credit Card|6,Income
+US Bank Credit Card,"Jan 6, 2026",,$6.98,Target (Return),Income,Target Return,PNC Credit Card,Return / refund,"$1,060.45",Return's,,PNC Credit Card|7,Income
+Sam's Credit Card,"Jan 6, 2026",$84.39,,Costco.com,Expenses,Household Items,PNC Credit Card,,"$1,144.84",Shopping,,PNC Credit Card|8,Shopping
+TeamJose Account,"Jan 7, 2026",$200.00,,ATM / Cash Withdrawal,Debts,Jose,PNC Checking,,"$1,068.10",Cash Withdrawal,,PNC Checking|6,Cash & Checks
+January,"Jan 7, 2026",$20.97,,Costco Gas,Expenses,Gas,PNC Credit Card,,"$1,165.81",Gas & Fuel,,PNC Credit Card|9,Transportation
+February,"Jan 7, 2026",,$23.71,Cash Back Redemption,Income,PNC Credit Card Rewards,PNC Credit Card,,"$1,142.10",Rewards,,PNC Credit Card|10,Income
+March,"Jan 7, 2026",,$83.06,Cash Back Redemption,Income,PNC Credit Card Rewards,PNC Credit Card,,"$1,059.04",Rewards,,PNC Credit Card|11,Income
+April,"Jan 8, 2026",$48.44,,US Cellular,Bills,Payment,PNC Checking,,"$1,019.66",Phone & Internet,,PNC Checking|7,Bills & Utilities
+May,"Jan 8, 2026",,$10.49,Target (Return),Income,Target Return,PNC Credit Card,Return / refund,"$1,048.55",Return's,,PNC Credit Card|12,Income
+June,"Jan 9, 2026",,"$2,393.92",First Supply Payroll,Income,Deposit=Checking,PNC Checking,,"$3,413.58",Jose's Paycheck 💵,,PNC Checking|8,Income
+July,"Jan 9, 2026",$64.08,,Amazon,Expenses,Personal,PNC Credit Card,,"$1,112.63",Shopping,,PNC Credit Card|13,Shopping
+August,"Jan 11, 2026",$27.40,,Costco Gas,Expenses,Gas,PNC Credit Card,,"$1,140.03",Gas & Fuel,,PNC Credit Card|14,Transportation
+September,"Jan 12, 2026",,$10.00,Walmart.com (Return),Income,Walmart Return,PNC Checking,Return / refund,"$3,423.58",Return's,,PNC Checking|9,Income
+October,"Jan 12, 2026",$47.47,,Walmart.com,Expenses,Groceries,PNC Checking,,"$3,376.11",Shopping,,PNC Checking|10,Shopping
+November,"Jan 12, 2026",$70.00,,ATM / Cash Withdrawal,Debts,Jose,PNC Checking,,"$3,306.11",Cash Withdrawal,,PNC Checking|11,Cash & Checks
+December,"Jan 12, 2026",$215.00,,We Energies,Bills,Payment,PNC Checking,,"$3,091.11",Utilities,,PNC Checking|12,Bills & Utilities
+Monthly Breakdown,"Jan 13, 2026",$24.66,,Pick 'n Save,Expenses,Groceries,PNC Credit Card,,"$1,164.69",Groceries,,PNC Credit Card|15,Food
+Spending Detail,"Jan 14, 2026",$6.93,,Walmart,Expenses,Groceries,PNC Credit Card,,"$1,171.62",Shopping,,PNC Credit Card|16,Shopping
+Income Detail,"Jan 14, 2026",$1.04,,Walgreens,Expenses,Personal,PNC Credit Card,,"$1,172.66",Health & Pharmacy,,PNC Credit Card|17,Health
+Transfers Detail,"Jan 14, 2026",$40.00,,Spectrum,Bills,Payment,PNC Credit Card,,"$1,212.66",Phone & Internet,,PNC Credit Card|18,Bills & Utilities
+Yearly,"Jan 14, 2026",,$488.44,Sam's Credit Card Payment,Bills,Payment,Sam's Credit Card,,$229.21,Credit Card Payment,,Sam's Credit Card|1,Transfers
+Dashboard,"Jan 14, 2026",,$488.44,Sam's Credit Card Payment,Bills,Payment,Sam's Credit Card,,-$259.23,Credit Card Payment,,Sam's Credit Card|2,Transfers
+Setup,"Jan 15, 2026","$1,400.00",,Mr. Cooper Mortgage,Bills,Payment,PNC Checking,,"$1,691.11",Mortgage,,PNC Checking|13,Housing
+Mortgage,"Jan 15, 2026",$488.44,,Sam's Credit Card Payment,Bills,Payment,PNC Checking,,"$1,202.67",Credit Card Payment,,PNC Checking|14,Transfers
+,"Jan 15, 2026",$95.88,,City of West Bend (Water/Utilities),Bills,Payment,PNC Checking,,"$1,106.79",Utilities,,PNC Checking|15,Bills & Utilities
+,"Jan 15, 2026",,$5.06,Hobby Lobby (Return),Income,Hobby Lobby Return,PNC Credit Card,Return / refund,"$1,207.60",Return's,,PNC Credit Card|19,Income
+,"Jan 15, 2026",,$1.57,Hobby Lobby (Return),Income,Hobby Lobby Return,PNC Credit Card,Return / refund,"$1,206.03",Return's,,PNC Credit Card|20,Income
+,"Jan 15, 2026",,$14.35,Hobby Lobby (Return),Income,Hobby Lobby Return,PNC Credit Card,Return / refund,"$1,191.68",Return's,,PNC Credit Card|21,Income
+,"Jan 15, 2026",,$6.94,Walmart (Return),Income,Walmart Return,PNC Credit Card,Return / refund,"$1,184.74",Return's,,PNC Credit Card|22,Income
+,"Jan 15, 2026",$61.72,,Kohl's,Expenses,Jose,PNC Credit Card,,"$1,246.46",Shopping,,PNC Credit Card|23,Shopping
+,"Jan 15, 2026",,$42.17,Walmart (Return),Income,Walmart Return,PNC Credit Card,Return / refund,"$1,204.29",Return's,,PNC Credit Card|24,Income
+,"Jan 15, 2026",,$15.80,Walmart.com (Return),Income,Walmart Return,PNC Credit Card,Return / refund,"$1,188.49",Return's,,PNC Credit Card|25,Income
+,"Jan 15, 2026",,$3.37,Meijer (Return),Income,Meijer's Return,PNC Credit Card,Return / refund,"$1,185.12",Return's,,PNC Credit Card|26,Income
+,"Jan 15, 2026",,$10.51,The Home Depot (Return),Income,Home Depot Return,PNC Credit Card,Return / refund,"$1,174.61",Return's,,PNC Credit Card|27,Income
+,"Jan 16, 2026",,$27.06,Walmart (Return),Income,Walmart Return,PNC Checking,Return / refund,"$1,133.85",Return's,,PNC Checking|16,Income
+,"Jan 16, 2026",$488.44,,Sam's Credit Card Payment,Bills,Payment,PNC Checking,,$645.41,Credit Card Payment,,PNC Checking|17,Transfers
+,"Jan 16, 2026",$6.43,,Kwik Trip,Expenses,Groceries,PNC Checking,,$638.98,Gas & Fuel,,PNC Checking|18,Transportation
+,"Jan 16, 2026",,$9.48,Amazon (Return),Income,Amazon Return,PNC Credit Card,Return / refund,"$1,165.13",Return's,,PNC Credit Card|28,Income
+,"Jan 16, 2026",,$31.64,Amazon (Return),Income,Amazon Return,PNC Credit Card,Return / refund,"$1,133.49",Return's,,PNC Credit Card|29,Income
+,"Jan 16, 2026",,$10.54,Amazon (Return),Income,Amazon Return,PNC Credit Card,Return / refund,"$1,122.95",Return's,,PNC Credit Card|30,Income
+,"Jan 16, 2026",,$6.64,Amazon (Return),Income,Amazon Return,PNC Credit Card,Return / refund,"$1,116.31",Return's,,PNC Credit Card|31,Income
+,"Jan 17, 2026",$17.25,,Amazon,Expenses,Vehicle,PNC Credit Card,,"$1,133.56",Shopping,,PNC Credit Card|32,Shopping
+,"Jan 17, 2026",$23.13,,Costco Gas,Expenses,Gas,PNC Credit Card,,"$1,156.69",Gas & Fuel,,PNC Credit Card|33,Transportation
+,"Jan 20, 2026",$20.00,,ATM / Cash Withdrawal,Debts,Jose,PNC Checking,,$618.98,Cash Withdrawal,,PNC Checking|19,Cash & Checks
+,"Jan 20, 2026",$35.81,,Walmart.com,Expenses,Health,PNC Credit Card,,"$1,192.50",Shopping,,PNC Credit Card|34,Shopping
+,"Jan 20, 2026",$12.73,,Kohl's,Expenses,Personal,PNC Credit Card,,"$1,205.23",Shopping,,PNC Credit Card|35,Shopping
+,"Jan 20, 2026",$59.83,,Walgreens,Expenses,Health,PNC Credit Card,,"$1,265.06",Health & Pharmacy,,PNC Credit Card|36,Health
+,"Jan 20, 2026",$35.87,,Amazon,Expenses,Jose,PNC Credit Card,,"$1,300.93",Shopping,,PNC Credit Card|37,Shopping
+,"Jan 21, 2026",$17.51,,Target,Expenses,Prescriptions,PNC Credit Card,,"$1,318.44",Shopping,,PNC Credit Card|38,Shopping
+,"Jan 21, 2026","$4,008.99",,Costco.com,Expenses,Health,PNC Credit Card,,"$5,327.43",Shopping,,PNC Credit Card|39,Shopping
+,"Jan 21, 2026",$119.56,,Sam's Club,Expenses,Groceries,Sam's Credit Card,,-$139.67,Groceries,,Sam's Credit Card|3,Food
+,"Jan 21, 2026",$17.25,,Sam's Club Gas,Expenses,Gas,Sam's Credit Card,,-$122.42,Gas & Fuel,,Sam's Credit Card|4,Transportation
+,"Jan 23, 2026",,"$2,065.85",First Supply Payroll,Income,Deposit=Checking,PNC Checking,,"$2,684.83",Jose's Paycheck 💵,,PNC Checking|20,Income
+,"Jan 24, 2026",$4.23,,Walmart,Expenses,Personal,PNC Credit Card,,"$5,331.66",Shopping,,PNC Credit Card|40,Shopping
+,"Jan 24, 2026",$5.28,,Dollar Tree,Expenses,Personal,PNC Credit Card,,"$5,336.94",Shopping,,PNC Credit Card|41,Shopping
+,"Jan 24, 2026",,$126.58,Amazon (Return),Income,Amazon Return,PNC Credit Card,Return / refund,"$5,210.36",Return's,,PNC Credit Card|42,Income
+,"Jan 25, 2026",$8.17,,Walmart.com,Expenses,Groceries,PNC Credit Card,,"$5,218.53",Shopping,,PNC Credit Card|43,Shopping
+,"Jan 26, 2026",$350.00,,ATM / Cash Withdrawal,Debts,Cash,PNC Checking,,"$2,334.83",Cash Withdrawal,,PNC Checking|21,Cash & Checks
+,"Jan 26, 2026",$10.00,,Kwik Trip,Expenses,Gas,PNC Checking,,"$2,324.83",Gas & Fuel,,PNC Checking|22,Transportation
+,"Jan 26, 2026",$3.59,,Walmart,Expenses,Groceries,PNC Credit Card,,"$5,222.12",Shopping,,PNC Credit Card|44,Shopping
+,"Jan 26, 2026",$103.40,,DirecTV,Bills,Payment,PNC Credit Card,,"$5,325.52",Phone & Internet,,PNC Credit Card|45,Bills & Utilities
+,"Jan 27, 2026","$1,600.00",,Transfer to PNC Money Market,Transfer,Deposit=Money Market,PNC Checking,Matches PNC Money Market,$724.83,Transfer,,PNC Checking|23,Transfers
+,"Jan 27, 2026",,$0.01,Interest,Income,Deposit=Checking,PNC Checking,,$724.84,Interest,,PNC Checking|24,Income
+,"Jan 27, 2026",,"$1,600.00",Transfer from PNC Checking,Transfer,Deposit=Money Market,PNC Money Market,Matches PNC Checking,"$144,600.00",Transfer,,PNC Money Market|2,Transfers
+,"Jan 27, 2026",$25.30,,Costco Gas,Expenses,Gas,PNC Credit Card,,"$5,350.82",Gas & Fuel,,PNC Credit Card|46,Transportation
+,"Jan 28, 2026",,"$1,280.40",Social Security (SSA),Income,Deposit=Checking,PNC Checking,,"$2,005.24",Social Security,,PNC Checking|25,Income
+,"Jan 29, 2026",$130.00,,Passport Services,Expenses,Jose,PNC Checking,,"$1,875.24",Taxes & Gov't Fees,,PNC Checking|26,Fees & Taxes
+,"Jan 29, 2026",$28.07,,Amazon,Expenses,Personal,PNC Credit Card,,"$5,378.89",Shopping,,PNC Credit Card|47,Shopping
+,"Jan 29, 2026",$20.01,,Amazon,Expenses,Personal,PNC Credit Card,,"$5,398.90",Shopping,,PNC Credit Card|48,Shopping
+,"Jan 30, 2026",$20.31,,Walmart,Expenses,Groceries,PNC Credit Card,,"$5,419.21",Shopping,,PNC Credit Card|49,Shopping
+,"Jan 31, 2026",,$389.82,Interest,Income,Deposit=Money Market,PNC Money Market,,"$144,989.82",Interest,,PNC Money Market|3,Income
+,"Jan 31, 2026",$47.88,,Walmart,Expenses,Groceries,PNC Credit Card,,"$5,467.09",Shopping,,PNC Credit Card|50,Shopping
+,"Jan 31, 2026",$16.87,,Kohl's,Expenses,Personal,PNC Credit Card,,"$5,483.96",Shopping,,PNC Credit Card|51,Shopping
+,"Jan 31, 2026",,$63.28,Walmart.com (Return),Income,Walmart Return,PNC Credit Card,Return / refund,"$5,420.68",Return's,,PNC Credit Card|52,Income
+,"Jan 31, 2026",,"$1,164.55",PNC Credit Card Payment,Bills,Payment,PNC Credit Card,Payment from PNC Checking,"$4,256.13",Credit Card Payment,,PNC Credit Card|53,Transfers
+,"Feb 1, 2026",,$19.91,Amazon (Return),Income,Amazon Return,PNC Credit Card,Return / refund,"$4,236.22",Return's,,PNC Credit Card|54,Income
+,"Feb 1, 2026",,$7.06,Amazon (Return),Income,Amazon Return,PNC Credit Card,Return / refund,"$4,229.16",Return's,,PNC Credit Card|55,Income
+,"Feb 1, 2026",,$29.00,Amazon (Return),Income,Amazon Return,PNC Credit Card,Return / refund,"$4,200.16",Return's,,PNC Credit Card|56,Income
+,"Feb 1, 2026",,$39.82,Amazon (Return),Income,Amazon Return,PNC Credit Card,Return / refund,"$4,160.34",Return's,,PNC Credit Card|57,Income
+,"Feb 2, 2026","$1,164.55",,PNC Credit Card Payment,Bills,Payment,PNC Checking,Pays PNC Credit Card (...2106),$710.69,Credit Card Payment,,PNC Checking|27,Transfers
+,"Feb 2, 2026",$21.32,,Woodman's Gas,Expenses,Gas,PNC Checking,,$689.37,Gas & Fuel,,PNC Checking|28,Transportation
+,"Feb 2, 2026",$200.00,,ATM / Cash Withdrawal,Debts,Cash,PNC Checking,,$489.37,Cash Withdrawal,,PNC Checking|29,Cash & Checks
+,"Feb 2, 2026",$100.00,,WI DOT Vehicle Fees,Bills,Payment,PNC Checking,,$389.37,Vehicle & Auto,,PNC Checking|30,Transportation
+,"Feb 2, 2026",$25.07,,Kwik Trip,Expenses,Gas,PNC Checking,,$364.30,Gas & Fuel,,PNC Checking|31,Transportation
+,"Feb 2, 2026",$95.80,,Costco,Expenses,Groceries,PNC Credit Card,,"$4,256.14",Groceries,,PNC Credit Card|58,Food
+,"Feb 2, 2026",$6.28,,Costco,Expenses,Restaurant,PNC Credit Card,,"$4,262.42",Groceries,,PNC Credit Card|59,Food
+,"Feb 2, 2026",$47.45,,Sam's Club,Expenses,Groceries,Sam's Credit Card,,-$74.97,Groceries,,Sam's Credit Card|5,Food
+,"Feb 2, 2026",,$21.52,Sam's Club Return,Income,Sam's Club Return,Sam's Credit Card,Food Return,-$96.49,Return's,,Sam's Credit Card|6,Income
+,"Feb 3, 2026",$20.62,,Woodman's Food Market,Expenses,Gas,PNC Checking,,$343.68,Groceries,,PNC Checking|32,Food
+,"Feb 3, 2026",$20.41,,Costco Gas,Expenses,Gas,PNC Credit Card,,"$4,282.83",Gas & Fuel,,PNC Credit Card|60,Transportation
+,"Feb 4, 2026",$1.29,,Kwik Trip,Expenses,Groceries,PNC Checking,,$342.39,Gas & Fuel,,PNC Checking|33,Transportation
+,"Feb 4, 2026",$3.98,,Walmart,Expenses,Groceries,PNC Credit Card,,"$4,286.81",Shopping,,PNC Credit Card|61,Shopping
+,"Feb 4, 2026",,$20.75,Cash Back Redemption,Income,PNC Credit Card Rewards,PNC Credit Card,,"$4,266.06",Rewards,,PNC Credit Card|62,Income
+,"Feb 6, 2026",,"$2,194.17",First Supply Payroll,Income,Deposit=Checking,PNC Checking,,"$2,536.56",Jose's Paycheck 💵,,PNC Checking|34,Income
+,"Feb 8, 2026",$3.99,,Mcdonald'S M,Expenses,Restaurant,PNC Credit Card,,"$4,270.05",Dining,,PNC Credit Card|63,Food
+,"Feb 8, 2026",$2.61,,Costco,Expenses,Restaurant,PNC Credit Card,,"$4,272.66",Groceries,,PNC Credit Card|64,Food
+,"Feb 8, 2026",$21.44,,Costco Gas,Expenses,Gas,PNC Credit Card,,"$4,294.10",Gas & Fuel,,PNC Credit Card|65,Transportation
+,"Feb 9, 2026",$48.43,,US Cellular,Bills,Payment,PNC Checking,,"$2,488.13",Phone & Internet,,PNC Checking|35,Bills & Utilities
+,"Feb 9, 2026",$1.42,,Kwik Trip,Expenses,Groceries,PNC Checking,,"$2,486.71",Gas & Fuel,,PNC Checking|36,Transportation
+,"Feb 9, 2026",,$6.32,Amazon (Return),Income,Amazon Return,PNC Credit Card,Return / refund,"$4,287.78",Return's,,PNC Credit Card|66,Income
+,"Feb 10, 2026",$318.00,,Heart & Soul Pet Clinic,Expenses,Dog,PNC Credit Card,,"$4,605.78",Health & Pharmacy,,PNC Credit Card|67,Health
+,"Feb 10, 2026",$3.98,,Kwik Trip,Expenses,Groceries,PNC Credit Card,,"$4,609.76",Gas & Fuel,,PNC Credit Card|68,Transportation
+,"Feb 11, 2026",$220.00,,We Energies,Bills,Payment,PNC Checking,,"$2,266.71",Utilities,,PNC Checking|37,Bills & Utilities
+,"Feb 11, 2026",$1.99,,Meijer,Expenses,Groceries,PNC Credit Card,,"$4,611.75",Groceries,,PNC Credit Card|69,Food
+,"Feb 11, 2026",$24.04,,Amazon,Expenses,Dog,PNC Credit Card,,"$4,635.79",Shopping,,PNC Credit Card|70,Shopping
+,"Feb 11, 2026",$10.52,,Costco Gas,Expenses,Gas,PNC Credit Card,,"$4,646.31",Gas & Fuel,,PNC Credit Card|71,Transportation
+,"Feb 11, 2026",$5.39,,Sam's Club,Expenses,Groceries,Sam's Credit Card,,-$91.10,Groceries,,Sam's Credit Card|7,Food
+,"Feb 12, 2026",$3.78,,Kwik Trip,Expenses,Groceries,PNC Checking,,"$2,262.93",Gas & Fuel,,PNC Checking|38,Transportation
+,"Feb 12, 2026",$1.88,,Kwik Trip,Expenses,Groceries,PNC Checking,,"$2,261.05",Gas & Fuel,,PNC Checking|39,Transportation
+,"Feb 13, 2026",$42.50,,Check #303,Expenses,Jose,PNC Checking,,"$2,218.55",Checks Written,,PNC Checking|40,Cash & Checks
+,"Feb 13, 2026",$363.00,,Heart & Soul Pet Clinic,Expenses,Dog,PNC Credit Card,,"$5,009.31",Health & Pharmacy,,PNC Credit Card|72,Health
+,"Feb 14, 2026",$2.64,,Dollar Tree,Expenses,Personal,PNC Credit Card,,"$5,011.95",Shopping,,PNC Credit Card|73,Shopping
+,"Feb 14, 2026",$40.00,,Spectrum,Bills,Payment,PNC Credit Card,,"$5,051.95",Phone & Internet,,PNC Credit Card|74,Bills & Utilities
+,"Feb 14, 2026",$5.99,,Kwik Trip,Expenses,Groceries,PNC Credit Card,,"$5,057.94",Gas & Fuel,,PNC Credit Card|75,Transportation
+,"Feb 15, 2026",$4.59,,Walmart,Expenses,Groceries,PNC Credit Card,,"$5,062.53",Shopping,,PNC Credit Card|76,Shopping
+,"Feb 17, 2026","$1,400.00",,Mr. Cooper Mortgage,Bills,Payment,PNC Checking,,$818.55,Mortgage,,PNC Checking|41,Housing
+,"Feb 17, 2026",$5.69,,Kwik Trip,Expenses,Groceries,PNC Checking,,$812.86,Gas & Fuel,,PNC Checking|42,Transportation
+,"Feb 17, 2026",,$14.76,Walmart.com (Return),Income,Walmart Return,PNC Credit Card,Return / refund,"$5,047.77",Return's,,PNC Credit Card|77,Income
+,"Feb 18, 2026",$15.91,,Kwik Trip,Expenses,Gas,PNC Checking,,$796.95,Gas & Fuel,,PNC Checking|43,Transportation
+,"Feb 18, 2026",,$17.40,Amazon (Return),Income,Amazon Return,PNC Credit Card,Return / refund,"$5,030.37",Return's,,PNC Credit Card|78,Income
+,"Feb 19, 2026",$27.72,,Kwik Trip,Expenses,Gas,PNC Checking,,$769.23,Gas & Fuel,,PNC Checking|44,Transportation
+,"Feb 19, 2026",$19.07,,Walmart,Expenses,Groceries,PNC Credit Card,,"$5,049.44",Shopping,,PNC Credit Card|79,Shopping
+,"Feb 19, 2026",$23.89,,Meijer,Expenses,Prescriptions,PNC Credit Card,,"$5,073.33",Groceries,,PNC Credit Card|80,Food
+,"Feb 19, 2026",$6.28,,Costco,Expenses,Restaurant,PNC Credit Card,,"$5,079.61",Groceries,,PNC Credit Card|81,Food
+,"Feb 19, 2026",$70.62,,Costco,Expenses,Groceries,PNC Credit Card,,"$5,150.23",Groceries,,PNC Credit Card|82,Food
+,"Feb 19, 2026",,$5.79,Costco (Return),Income,Costco Return,PNC Credit Card,Return / refund,"$5,144.44",Return's,,PNC Credit Card|83,Income
+,"Feb 19, 2026",,$8.56,Sam's Club Return,Income,Sam's Club Return,Sam's Credit Card,Yogurt return,-$99.66,Return's,,Sam's Credit Card|8,Income
+,"Feb 19, 2026",,$20.48,Sam's Club Return,Income,Sam's Club Return,Sam's Credit Card,Total Beets Return,-$120.14,Return's,,Sam's Credit Card|9,Income
+,"Feb 20, 2026",,"$2,065.85",First Supply Payroll,Income,Deposit=Checking,PNC Checking,,"$2,835.08",Jose's Paycheck 💵,,PNC Checking|45,Income
+,"Feb 20, 2026",$13.54,,Sam's Club Gas,Expenses,Gas,Sam's Credit Card,,-$106.60,Gas & Fuel,,Sam's Credit Card|10,Transportation
+,"Feb 20, 2026",$146.66,,Sam's Club,Expenses,Groceries,Sam's Credit Card,,$40.06,Groceries,,Sam's Credit Card|11,Food
+,"Feb 23, 2026",$36.35,,Kwik Trip,Expenses,Gas,PNC Checking,,"$2,798.73",Gas & Fuel,,PNC Checking|46,Transportation
+,"Feb 24, 2026",,$0.02,Interest,Income,Deposit=Checking,PNC Checking,,"$2,798.75",Interest,,PNC Checking|47,Income
+,"Feb 25, 2026",,"$1,280.40",Social Security (SSA),Income,Deposit=Checking,PNC Checking,,"$4,079.15",Social Security,,PNC Checking|48,Income
+,"Feb 25, 2026",$15.01,,Sam's Club Gas,Expenses,Gas,Sam's Credit Card,,$55.07,Gas & Fuel,,Sam's Credit Card|12,Transportation
+,"Feb 26, 2026",,"$1,000.09",Transfer from PNC acct ...5966,Transfer,Jose's Scholarship,PNC Checking,Other PNC account - not in this workbook,"$5,079.24",Transfer,,PNC Checking|49,Transfers
+,"Feb 26, 2026",$88.40,,DirecTV,Bills,Payment,PNC Credit Card,,"$5,232.84",Phone & Internet,,PNC Credit Card|84,Bills & Utilities
+,"Feb 27, 2026",$17.65,,Target,Expenses,Groceries,PNC Credit Card,,"$5,250.49",Shopping,,PNC Credit Card|85,Shopping
+,"Feb 27, 2026",$16.12,,Aldi,Expenses,Groceries,PNC Credit Card,,"$5,266.61",Groceries,,PNC Credit Card|86,Food
+,"Feb 27, 2026",$17.33,,Meijer,Expenses,Groceries,PNC Credit Card,,"$5,283.94",Groceries,,PNC Credit Card|87,Food
+,"Feb 27, 2026",$47.46,,Ross,Expenses,Jose,PNC Credit Card,,"$5,331.40",Shopping,,PNC Credit Card|88,Shopping
+,"Feb 28, 2026",,$356.25,Interest,Income,Deposit=Money Market,PNC Money Market,,"$145,346.07",Interest,,PNC Money Market|4,Income
+,"Feb 28, 2026",$3.06,,Menards,Expenses,Household Items,PNC Credit Card,,"$5,334.46",Household & Home,,PNC Credit Card|89,Housing
+,"Feb 28, 2026",,"$4,262.42",PNC Credit Card Payment,Bills,Payment,PNC Credit Card,Payment from PNC Checking,"$1,072.04",Credit Card Payment,,PNC Credit Card|90,Transfers
+,"Mar 1, 2026",$23.31,,Amazon,Expenses,Health,PNC Credit Card,,"$1,095.35",Shopping,,PNC Credit Card|91,Shopping
+,"Mar 2, 2026","$4,262.42",,PNC Credit Card Payment,Bills,Payment,PNC Checking,Pays PNC Credit Card (...2106),$816.82,Credit Card Payment,,PNC Checking|50,Transfers
+,"Mar 2, 2026",$31.09,,Woodman's Gas,Expenses,Gas,PNC Checking,,$785.73,Gas & Fuel,,PNC Checking|51,Transportation
+,"Mar 2, 2026",$85.00,,WI DOT Vehicle Fees,Bills,Payment,PNC Checking,,$700.73,Vehicle & Auto,,PNC Checking|52,Transportation
+,"Mar 2, 2026",$4.90,,Kwik Trip,Expenses,Groceries,PNC Checking,,$695.83,Gas & Fuel,,PNC Checking|53,Transportation
+,"Mar 2, 2026",$75.00,,H&R Block,Expenses,Fee,PNC Credit Card,,"$1,170.35",Taxes & Gov't Fees,,PNC Credit Card|92,Fees & Taxes
+,"Mar 2, 2026",$7.92,,Target,Expenses,Groceries,PNC Credit Card,,"$1,178.27",Shopping,,PNC Credit Card|93,Shopping
+,"Mar 2, 2026",$12.64,,Kohl's,Expenses,Dog,PNC Credit Card,,"$1,190.91",Shopping,,PNC Credit Card|94,Shopping
+,"Mar 2, 2026",$79.13,,Kohl's,Expenses,Birthday,PNC Credit Card,,"$1,270.04",Shopping,,PNC Credit Card|95,Shopping
+,"Mar 2, 2026",$3.96,,Dollar Tree,Expenses,Birthday,PNC Credit Card,,"$1,274.00",Shopping,,PNC Credit Card|96,Shopping
+,"Mar 2, 2026",$83.82,,Walmart,Expenses,Birthday,PNC Credit Card,,"$1,357.82",Shopping,,PNC Credit Card|97,Shopping
+,"Mar 2, 2026",$17.99,,Costco,Expenses,Birthday,PNC Credit Card,,"$1,375.81",Groceries,,PNC Credit Card|98,Food
+,"Mar 2, 2026",$4.70,,Costco,Expenses,Restaurant,PNC Credit Card,,"$1,380.51",Groceries,,PNC Credit Card|99,Food
+,"Mar 2, 2026",$20.10,,Costco Gas,Expenses,Gas,PNC Credit Card,,"$1,400.61",Gas & Fuel,,PNC Credit Card|100,Transportation
+,"Mar 3, 2026",$24.34,,Woodman's Food Market,Expenses,Groceries,PNC Checking,,$671.49,Groceries,,PNC Checking|54,Food
+,"Mar 3, 2026",$327.13,,Sam's Club,Expenses,Health,Sam's Credit Card,Rower/ mac/Dog Treats,$382.20,Health & Pharmacy,,Sam's Credit Card|13,Health
+,"Mar 4, 2026",$70.00,,Target,Expenses,Prescriptions,PNC Credit Card,,"$1,470.61",Shopping,,PNC Credit Card|101,Shopping
+,"Mar 6, 2026",,$363.00,Heart & Soul Pet Clinic (Return),Income,Heart & Soul Pet Clinic,PNC Checking,Return / refund,"$1,034.49",Refund,,PNC Checking|55,Income
+,"Mar 6, 2026",,"$2,173.85",First Supply Payroll,Income,Deposit=Checking,PNC Checking,,"$3,208.34",Jose's Paycheck 💵,,PNC Checking|56,Income
+,"Mar 7, 2026",$1.18,,Walmart,Expenses,Groceries,PNC Credit Card,,"$1,471.79",Shopping,,PNC Credit Card|102,Shopping
+,"Mar 7, 2026",$19.75,,Costco Gas,Expenses,Gas,PNC Credit Card,,"$1,491.54",Gas & Fuel,,PNC Credit Card|103,Transportation
+,"Mar 8, 2026",$3.69,,Dollar Tree,Expenses,Personal,PNC Credit Card,,"$1,495.23",Shopping,,PNC Credit Card|104,Shopping
+,"Mar 8, 2026",$13.24,,Costco Gas,Expenses,Gas,PNC Credit Card,,"$1,508.47",Gas & Fuel,,PNC Credit Card|105,Transportation
+,"Mar 9, 2026",,"$1,493.00",WI Dept of Revenue Refund,Income,,PNC Checking,,"$4,701.34",WI Revenue TAX,,PNC Checking|57,Income
+,"Mar 9, 2026",$48.43,,US Cellular,Bills,Payment,PNC Checking,,"$4,652.91",Phone & Internet,,PNC Checking|58,Bills & Utilities
+,"Mar 9, 2026","$2,000.00",,Transfer to PNC Money Market,Transfer,Deposit=Savings,PNC Checking,Matches PNC Money Market,"$2,652.91",Transfer,,PNC Checking|59,Transfers
+,"Mar 9, 2026",,"$2,000.00",Transfer from PNC Checking,Transfer,Deposit=Money Market,PNC Money Market,Matches PNC Checking,"$147,346.07",Transfer,,PNC Money Market|5,Transfers
+,"Mar 9, 2026",$7.75,,Aldi,Expenses,Groceries,PNC Credit Card,,"$1,516.22",Groceries,,PNC Credit Card|106,Food
+,"Mar 9, 2026",$6.33,,Wendys,Expenses,Restaurant,PNC Credit Card,,"$1,522.55",Dining,,PNC Credit Card|107,Food
+,"Mar 10, 2026","$1,400.00",,Rocket Mortgage,Bills,Payment,PNC Checking,,"$1,252.91",Mortgage,,PNC Checking|60,Housing
+,"Mar 10, 2026",$220.00,,We Energies,Bills,Payment,PNC Checking,,"$1,032.91",Utilities,,PNC Checking|61,Bills & Utilities
+,"Mar 12, 2026",$33.76,,Dollar General,Expenses,Jose's Work,PNC Credit Card,,"$1,556.31",Shopping,,PNC Credit Card|108,Shopping
+,"Mar 13, 2026",,"$3,048.66",First Supply Payroll,Income,Deposit=Checking,PNC Checking,,"$4,081.57",Jose's Paycheck 💵,,PNC Checking|62,Income
+,"Mar 13, 2026",$5.28,,Burger King,Expenses,Restaurant,PNC Credit Card,,"$1,561.59",Dining,,PNC Credit Card|109,Food
+,"Mar 14, 2026",$1.32,,Dollar Tree,Expenses,Personal,PNC Credit Card,,"$1,562.91",Shopping,,PNC Credit Card|110,Shopping
+,"Mar 14, 2026",$40.00,,Spectrum,Bills,Payment,PNC Credit Card,,"$1,602.91",Phone & Internet,,PNC Credit Card|111,Bills & Utilities
+,"Mar 14, 2026",$30.54,,Costco Gas,Expenses,Gas,PNC Credit Card,,"$1,633.45",Gas & Fuel,,PNC Credit Card|112,Transportation
+,"Mar 16, 2026",$300.00,,ATM / Cash Withdrawal,Debts,Household Items,PNC Checking,,"$3,781.57",Cash Withdrawal,,PNC Checking|63,Cash & Checks
+,"Mar 16, 2026",$300.00,,IRS Tax Payment,Expenses,Payment,PNC Checking,,"$3,481.57",Taxes & Gov't Fees,,PNC Checking|64,Fees & Taxes
+,"Mar 16, 2026",$6.69,,Py *Rocky Rococo Pizza &,Expenses,Restaurant,PNC Credit Card,,"$1,640.14",Dining,,PNC Credit Card|113,Food
+,"Mar 16, 2026",$27.75,,Sam's Club,Expenses,Groceries,Sam's Credit Card,,$409.95,Groceries,,Sam's Credit Card|14,Food
+,"Mar 16, 2026",$27.56,,Sam's Club,Expenses,Jose's Work,Sam's Credit Card,,$437.51,Jose's Work Expenses,,Sam's Credit Card|15,Jose's Work Expenses
+,"Mar 16, 2026",$14.51,,Sam's Club Gas,Expenses,Gas,Sam's Credit Card,,$452.02,Gas & Fuel,,Sam's Credit Card|16,Transportation
+,"Mar 18, 2026",$67.20,,Swanson & Strupp Family Dental,Prescriptions,Dentist,PNC Credit Card,,"$1,707.34",Health & Pharmacy,,PNC Credit Card|114,Health
+,"Mar 18, 2026",$7.94,,Walmart,Expenses,Groceries,PNC Credit Card,,"$1,715.28",Shopping,,PNC Credit Card|115,Shopping
+,"Mar 18, 2026",$39.36,,Walmart,Expenses,Groceries,PNC Credit Card,,"$1,754.64",Shopping,,PNC Credit Card|116,Shopping
+,"Mar 20, 2026",,"$2,120.71",First Supply Payroll,Income,Deposit=Checking,PNC Checking,,"$5,602.28",Jose's Paycheck 💵,,PNC Checking|65,Income
+,"Mar 20, 2026",$25.94,,Citgo,Expenses,Gas,PNC Credit Card,,"$1,780.58",Gas & Fuel,,PNC Credit Card|117,Transportation
+,"Mar 20, 2026",$171.30,,Whitetail Crossing Bar,Expenses,Cigs,PNC Credit Card,,"$1,951.88",Dining,,PNC Credit Card|118,Food
+,"Mar 20, 2026",$1.32,,Dollar Tree,Expenses,Personal,PNC Credit Card,,"$1,953.20",Shopping,,PNC Credit Card|119,Shopping
+,"Mar 23, 2026",$60.00,,ATM / Cash Withdrawal,Debts,Cash,PNC Checking,,"$5,542.28",Cash Withdrawal,,PNC Checking|66,Cash & Checks
+,"Mar 23, 2026",$7.01,,Kwik Trip,Expenses,Groceries,PNC Checking,,"$5,535.27",Gas & Fuel,,PNC Checking|67,Transportation
+,"Mar 23, 2026",$19.91,,Amazon,Expenses,Personal,PNC Credit Card,,"$1,973.11",Shopping,,PNC Credit Card|120,Shopping
+,"Mar 24, 2026",$1.42,,Kwik Trip,Expenses,Groceries,PNC Checking,,"$5,533.85",Gas & Fuel,,PNC Checking|68,Transportation
+,"Mar 25, 2026",,"$1,280.40",Social Security (SSA),Income,Deposit=Checking,PNC Checking,,"$6,814.25",Social Security,,PNC Checking|69,Income
+,"Mar 25, 2026",$20.44,,Cosmoprof,Expenses,Personal,PNC Credit Card,,"$1,993.55",Shopping,,PNC Credit Card|121,Shopping
+,"Mar 25, 2026",$41.77,,Costco Gas,Expenses,Gas,PNC Credit Card,,"$2,035.32",Gas & Fuel,,PNC Credit Card|122,Transportation
+,"Mar 26, 2026",$36.91,,Kwik Trip,Expenses,Gas,PNC Checking,,"$6,777.34",Gas & Fuel,,PNC Checking|70,Transportation
+,"Mar 26, 2026",,$0.02,Interest,Income,Deposit=Checking,PNC Checking,,"$6,777.36",Interest,,PNC Checking|71,Income
+,"Mar 26, 2026",$103.40,,DirecTV,Bills,Payment,PNC Credit Card,,"$2,138.72",Phone & Internet,,PNC Credit Card|123,Bills & Utilities
+,"Mar 28, 2026",$23.93,,Meijer,Expenses,Groceries,PNC Credit Card,,"$2,162.65",Groceries,,PNC Credit Card|124,Food
+,"Mar 28, 2026",$91.05,,Sam's Club,Expenses,Groceries,Sam's Credit Card,,$543.07,Groceries,,Sam's Credit Card|17,Food
+,"Mar 29, 2026",$5.00,,Target,Expenses,Prescriptions,PNC Credit Card,,"$2,167.65",Shopping,,PNC Credit Card|125,Shopping
+,"Mar 29, 2026",$51.62,,Walmart,Expenses,Groceries,PNC Credit Card,,"$2,219.27",Shopping,,PNC Credit Card|126,Shopping
+,"Mar 31, 2026",$3.22,,Kwik Trip,Expenses,Groceries,PNC Checking,,"$6,774.14",Gas & Fuel,,PNC Checking|72,Transportation
+,"Mar 31, 2026",$27.18,,Woodman's Food Market,Expenses,Groceries,PNC Checking,,"$6,746.96",Groceries,,PNC Checking|73,Food
+,"Mar 31, 2026",$17.24,,Woodman's Food Market,Expenses,Groceries,PNC Checking,,"$6,729.72",Groceries,,PNC Checking|74,Food
+,"Mar 31, 2026",,$256.89,Interest,Income,Deposit=Money Market,PNC Money Market,,"$147,602.96",Interest,,PNC Money Market|6,Income
+,"Mar 31, 2026",$39.10,,Costco Gas,Expenses,Gas,PNC Credit Card,,"$2,258.37",Gas & Fuel,,PNC Credit Card|127,Transportation
+,"Mar 31, 2026",,$13.90,Sam's Club Return,Income,Sam's Club Return,Sam's Credit Card,Chocolate,$529.17,Return's,,Sam's Credit Card|18,Income
+,"Mar 31, 2026",$16.30,,Sam's Club Gas,Expenses,Gas,Sam's Credit Card,,$545.47,Gas & Fuel,,Sam's Credit Card|19,Transportation
+,"Mar 31, 2026",$92.94,,Sam's Club,Expenses,Groceries,Sam's Credit Card,,$638.41,Groceries,,Sam's Credit Card|20,Food
+,"Apr 1, 2026","$2,219.27",,PNC Credit Card Payment,Bills,Payment,PNC Checking,Pays PNC Credit Card (...2106),"$4,510.45",Credit Card Payment,,PNC Checking|75,Transfers
+,"Apr 1, 2026",$0.94,,Kwik Trip,Expenses,Groceries,PNC Checking,,"$4,509.51",Gas & Fuel,,PNC Checking|76,Transportation
+,"Apr 1, 2026",$12.66,,Walmart,Expenses,Groceries,PNC Credit Card,,"$2,271.03",Shopping,,PNC Credit Card|128,Shopping
+,"Apr 1, 2026",$90.63,,Amazon,Expenses,Personal,PNC Credit Card,,"$2,361.66",Shopping,,PNC Credit Card|129,Shopping
+,"Apr 1, 2026",$14.30,,Amazon,Expenses,Personal,PNC Credit Card,,"$2,375.96",Shopping,,PNC Credit Card|130,Shopping
+,"Apr 1, 2026",$17.99,,Amazon,Expenses,Personal,PNC Credit Card,,"$2,393.95",Shopping,,PNC Credit Card|131,Shopping
+,"Apr 1, 2026",$18.84,,Amazon,Expenses,Personal,PNC Credit Card,,"$2,412.79",Shopping,,PNC Credit Card|132,Shopping
+,"Apr 1, 2026",$56.49,,Amazon,Expenses,Personal,PNC Credit Card,,"$2,469.28",Shopping,,PNC Credit Card|133,Shopping
+,"Apr 1, 2026",,"$2,219.27",PNC Credit Card Payment,Bills,Payment,PNC Credit Card,Payment from PNC Checking,$250.01,Credit Card Payment,,PNC Credit Card|134,Transfers
+,"Apr 3, 2026",,"$2,240.77",First Supply Payroll,Income,Deposit=Checking,PNC Checking,,"$6,750.28",Jose's Paycheck 💵,,PNC Checking|77,Income
+,"Apr 3, 2026",$89.54,,Froedtert Pharmacy,Prescriptions,Prescriptions,PNC Credit Card,,$339.55,Health & Pharmacy,,PNC Credit Card|135,Health
+,"Apr 6, 2026",$13.56,,Woodman's Gas,Expenses,Gas,PNC Checking,,"$6,736.72",Gas & Fuel,,PNC Checking|78,Transportation
+,"Apr 6, 2026",,$38.76,Cash Back Redemption,Income,PNC Credit Card Rewards,PNC Credit Card,,$300.79,Rewards,,PNC Credit Card|136,Income
+,"Apr 6, 2026",,$6.79,Cash Back Redemption,Income,PNC Credit Card Rewards,PNC Credit Card,,$294.00,Rewards,,PNC Credit Card|137,Income
+,"Apr 7, 2026",$52.70,,Meijer,Expenses,Groceries,PNC Credit Card,,$346.70,Groceries,,PNC Credit Card|138,Food
+,"Apr 8, 2026",$61.32,,Kwik Trip,Expenses,Gas,PNC Checking,,"$6,675.40",Gas & Fuel,,PNC Checking|79,Transportation
+,"Apr 8, 2026",$108.64,,Target,Expenses,Household Items,PNC Credit Card,,$455.34,Shopping,,PNC Credit Card|139,Shopping
+,"Apr 8, 2026",$17.48,,Costco Gas,Expenses,Gas,PNC Credit Card,,$472.82,Gas & Fuel,,PNC Credit Card|140,Transportation
+,"Apr 9, 2026",$48.43,,US Cellular,Bills,Payment,PNC Checking,,"$6,626.97",Phone & Internet,,PNC Checking|80,Bills & Utilities
+,"Apr 9, 2026",$220.00,,We Energies,Bills,Payment,PNC Checking,,"$6,406.97",Utilities,,PNC Checking|81,Bills & Utilities
+,"Apr 12, 2026",$20.99,,Target,Expenses,Groceries,PNC Credit Card,,$493.81,Shopping,,PNC Credit Card|141,Shopping
+,"Apr 12, 2026",,$50.63,Target (Return),Income,Target Return,PNC Credit Card,Return / refund,$443.18,Return's,,PNC Credit Card|142,Income
+,"Apr 12, 2026",$1.47,,Walmart,Expenses,Groceries,PNC Credit Card,,$444.65,Shopping,,PNC Credit Card|143,Shopping
+,"Apr 12, 2026",$30.16,,Meijer,Expenses,Prescriptions,PNC Credit Card,,$474.81,Groceries,,PNC Credit Card|144,Food
+,"Apr 12, 2026",,$24.24,Walmart (Return),Income,Walmart Return,PNC Credit Card,Return / refund,$450.57,Return's,,PNC Credit Card|145,Income
+,"Apr 12, 2026",,$12.66,Walmart (Return),Income,Walmart Return,PNC Credit Card,Return / refund,$437.91,Return's,,PNC Credit Card|146,Income
+,"Apr 12, 2026",,$253.19,Sam's Club Return,Income,Sam's Club Return,Sam's Credit Card,Rowing,$385.22,Return's,,Sam's Credit Card|21,Income
+,"Apr 12, 2026",,$16.16,Sam's Club Return,Income,Sam's Club Return,Sam's Credit Card,Dog Treats,$369.06,Return's,,Sam's Credit Card|22,Income
+,"Apr 12, 2026",$24.01,,Sam's Club Gas,Expenses,Gas,Sam's Credit Card,,$393.07,Gas & Fuel,,Sam's Credit Card|23,Transportation
+,"Apr 13, 2026","$3,397.04",,Transfer to PNC Money Market,Transfer,Deposit=Money Market,PNC Checking,Matches PNC Money Market,"$3,009.93",Transfer,,PNC Checking|82,Transfers
+,"Apr 13, 2026",$100.00,,Check #304,Expenses,Funeral,PNC Checking,,"$2,909.93",Checks Written,,PNC Checking|83,Cash & Checks
+,"Apr 13, 2026",,"$3,397.04",Transfer from PNC Checking,Transfer,Deposit=Money Market,PNC Money Market,Matches PNC Checking,"$151,000.00",Transfer,,PNC Money Market|7,Transfers
+,"Apr 13, 2026",$10.90,,Sammy'S Taste Of Chicag,Expenses,Restaurant,PNC Credit Card,,$448.81,Dining,,PNC Credit Card|147,Food
+,"Apr 13, 2026",,$31.64,Sam's Club Return,Income,Sam's Club Return,Sam's Credit Card,protection plan refund,$361.43,Return's,,Sam's Credit Card|24,Income
+,"Apr 13, 2026",,$452.02,Sam's Credit Card Payment,Bills,Payment,Sam's Credit Card,,-$90.59,Credit Card Payment,,Sam's Credit Card|25,Transfers
+,"Apr 14, 2026",$117.78,,City of West Bend (Water/Utilities),Bills,Payment,PNC Checking,,"$2,792.15",Utilities,,PNC Checking|84,Bills & Utilities
+,"Apr 14, 2026","$150,000.00",,Withdrawal to US Bank Savings,Transfer,Deposit=Savings,PNC Money Market,Matches US Bank Savings deposit,"$1,000.00",Transfer,,PNC Money Market|8,Transfers
+,"Apr 14, 2026",$40.00,,Spectrum,Bills,Payment,PNC Credit Card,,$488.81,Phone & Internet,,PNC Credit Card|148,Bills & Utilities
+,"Apr 14, 2026",,"$150,000.00",Deposit from PNC Money Market,Transfer,Deposit=Savings,US Bank Savings,Matches PNC Money Market withdrawal,"$150,000.00",Transfer,,US Bank Savings|1,Transfers
+,"Apr 15, 2026",,"$1,000.00",Transfer from PNC Money Market,Transfer,Deposit=Checking,PNC Checking,Matches PNC Money Market,"$3,792.15",Transfer,,PNC Checking|85,Transfers
+,"Apr 15, 2026","$1,400.00",,Rocket Mortgage,Bills,Payment,PNC Checking,,"$2,392.15",Mortgage,,PNC Checking|86,Housing
+,"Apr 15, 2026","$1,387.79",,Rocket Mortgage,Bills,Payment,PNC Checking,,"$1,004.36",Mortgage,,PNC Checking|87,Housing
+,"Apr 15, 2026",$452.02,,Sam's Credit Card Payment,Bills,Payment,PNC Checking,,$552.34,Credit Card Payment,,PNC Checking|88,Transfers
+,"Apr 15, 2026","$1,000.00",,Transfer to PNC Checking,Transfer,Deposit=Checking,PNC Money Market,Matches PNC Checking,$0.00,Transfer,,PNC Money Market|9,Transfers
+,"Apr 16, 2026",$46.29,,Kwik Trip,Expenses,Gas,PNC Checking,,$506.05,Gas & Fuel,,PNC Checking|89,Transportation
+,"Apr 17, 2026",,"$2,101.35",First Supply Payroll,Income,Deposit=Checking,PNC Checking,,"$2,607.40",Jose's Paycheck 💵,,PNC Checking|90,Income
+,"Apr 19, 2026",$37.22,,Costco Gas,Expenses,Gas,PNC Credit Card,,$526.03,Gas & Fuel,,PNC Credit Card|149,Transportation
+,"Apr 20, 2026",,$0.11,Transfer from PNC acct ...5966,Transfer,,PNC Checking,Other PNC account - not in this workbook,"$2,607.51",Transfer,,PNC Checking|91,Transfers
+,"Apr 20, 2026",$800.00,,ATM / Cash Withdrawal,Debts,Cash,PNC Checking,,"$1,807.51",Cash Withdrawal,,PNC Checking|92,Cash & Checks
+,"Apr 20, 2026",$40.00,,ATM / Cash Withdrawal,Debts,Cash,PNC Checking,,"$1,767.51",Cash Withdrawal,,PNC Checking|93,Cash & Checks
+,"Apr 20, 2026",$220.00,,ATM / Cash Withdrawal,Debts,Cash,PNC Checking,,"$1,547.51",Cash Withdrawal,,PNC Checking|94,Cash & Checks
+,"Apr 20, 2026",$1.88,,Kwik Trip,Expenses,Groceries,PNC Checking,,"$1,545.63",Gas & Fuel,,PNC Checking|95,Transportation
+,"Apr 20, 2026",,$58.01,Target (Return),Income,Target Return,PNC Credit Card,Return / refund,$468.02,Return's,,PNC Credit Card|150,Income
+,"Apr 20, 2026",$32.66,,Sam's Club,Expenses,Groceries,Sam's Credit Card,,-$57.93,Groceries,,Sam's Credit Card|26,Food
+,"Apr 21, 2026",$40.00,,Transfer to US Bank,Transfer,Deposit=Checking,PNC Checking,Matches US Bank Savings/Checking deposit,"$1,505.63",Transfer,,PNC Checking|96,Transfers
+,"Apr 21, 2026",$5.66,,Kwik Trip,Expenses,Groceries,PNC Checking,,"$1,499.97",Gas & Fuel,,PNC Checking|97,Transportation
+,"Apr 21, 2026",$66.87,,Target,Expenses,Dog,US Bank Credit Card,,$66.87,Shopping,,US Bank Credit Card|1,Shopping
+,"Apr 22, 2026",,"$1,280.40",Social Security (SSA),Income,Deposit=Checking,PNC Checking,,"$2,780.37",Social Security,,PNC Checking|98,Income
+,"Apr 22, 2026",$24.16,,Walmart.com,Expenses,Jose,PNC Credit Card,,$492.18,Shopping,,PNC Credit Card|151,Shopping
+,"Apr 22, 2026",$34.77,,Walmart.com,Expenses,Jose,PNC Credit Card,,$526.95,Shopping,,PNC Credit Card|152,Shopping
+,"Apr 23, 2026",$6.43,,Walmart,Expenses,Groceries,PNC Credit Card,,$533.38,Shopping,,PNC Credit Card|153,Shopping
+,"Apr 23, 2026",,$40.00,Transfer from PNC Checking,Transfer,Deposit=Savings,US Bank Checking,Matches PNC Checking,$40.00,Transfer,,US Bank Checking|1,Transfers
+,"Apr 23, 2026",,$113.13,Interest,Income,Deposit=Savings,US Bank Savings,,"$150,113.13",Interest,,US Bank Savings|2,Income
+,"Apr 23, 2026",$30.05,,Sam's Club Gas,Expenses,Gas,Sam's Credit Card,,-$27.88,Gas & Fuel,,Sam's Credit Card|27,Transportation
+,"Apr 24, 2026",,$0.04,Interest,Income,Deposit=Checking,PNC Checking,,"$2,780.41",Interest,,PNC Checking|99,Income
+,"Apr 24, 2026",$24.49,,Target,Expenses,Dog,US Bank Credit Card,,$91.36,Shopping,,US Bank Credit Card|2,Shopping
+,"Apr 25, 2026",$157.82,,Amazon,Expenses,Personal,PNC Credit Card,,$691.20,Shopping,,PNC Credit Card|154,Shopping
+,"Apr 25, 2026",$50.35,,Amazon,Expenses,Personal,PNC Credit Card,,$741.55,Shopping,,PNC Credit Card|155,Shopping
+,"Apr 26, 2026",$2.63,,Walmart,Expenses,Groceries,PNC Credit Card,,$744.18,Shopping,,PNC Credit Card|156,Shopping
+,"Apr 26, 2026",$67.30,,DirecTV,Bills,Payment,PNC Credit Card,,$811.48,Phone & Internet,,PNC Credit Card|157,Bills & Utilities
+,"Apr 27, 2026",$2.84,,Kwik Trip,Expenses,Groceries,PNC Checking,,"$2,777.57",Gas & Fuel,,PNC Checking|100,Transportation
+,"Apr 27, 2026",$99.80,,Walgreens,Expenses,Cigs,US Bank Credit Card,,$191.16,Health & Pharmacy,,US Bank Credit Card|3,Health
+,"Apr 27, 2026",$4.17,,Qdoba,Expenses,Restaurant,US Bank Credit Card,,$195.33,Dining,,US Bank Credit Card|4,Food
+,"Apr 28, 2026",,$84.39,Costco.com (Return),Income,Costco Return,PNC Credit Card,Return / refund,$727.09,Return's,,PNC Credit Card|158,Income
+,"Apr 29, 2026",$12.69,,Target,Expenses,Prescriptions,PNC Credit Card,,$739.78,Shopping,,PNC Credit Card|159,Shopping
+,"Apr 29, 2026",$44.29,,Costco Gas,Expenses,Gas,PNC Credit Card,,$784.07,Gas & Fuel,,PNC Credit Card|160,Transportation
+,"Apr 29, 2026",$31.23,,Costco Gas,Expenses,Gas,US Bank Credit Card,,$226.56,Gas & Fuel,,US Bank Credit Card|5,Transportation
+,"Apr 29, 2026",$14.62,,Costco,Expenses,Groceries,US Bank Credit Card,,$241.18,Groceries,,US Bank Credit Card|6,Food
+,"Apr 30, 2026",,$104.44,Interest,Income,Deposit=Money Market,PNC Money Market,,$104.44,Interest,,PNC Money Market|10,Income
+,"May 1, 2026",,"$2,494.86",First Supply Payroll,Income,Deposit=Checking,PNC Checking,,"$5,272.43",Jose's Paycheck 💵,,PNC Checking|101,Income
+,"May 1, 2026",,$104.44,Transfer from PNC Money Market,Transfer,Deposit=Checking,PNC Checking,Matches PNC Money Market,"$5,376.87",Transfer,,PNC Checking|102,Transfers
+,"May 1, 2026",$339.55,,PNC Credit Card Payment,Bills,Payment,PNC Checking,Pays PNC Credit Card (...2106),"$5,037.32",Credit Card Payment,,PNC Checking|103,Transfers
+,"May 1, 2026",$104.44,,Transfer to PNC Checking,Transfer,Deposit=Checking,PNC Money Market,Matches PNC Checking,$0.00,Transfer,,PNC Money Market|11,Transfers
+,"May 1, 2026",,$339.55,PNC Credit Card Payment,Bills,Payment,PNC Credit Card,Payment from PNC Checking,$444.52,Credit Card Payment,,PNC Credit Card|161,Transfers
+,"May 2, 2026",,$19.99,Amazon (Return),Income,Amazon Return,PNC Credit Card,Return / refund,$424.53,Return's,,PNC Credit Card|162,Income
+,"May 2, 2026",,$17.90,Amazon (Return),Income,Amazon Return,PNC Credit Card,Return / refund,$406.63,Return's,,PNC Credit Card|163,Income
+,"May 2, 2026",,$17.91,Amazon (Return),Income,Amazon Return,PNC Credit Card,Return / refund,$388.72,Return's,,PNC Credit Card|164,Income
+,"May 2, 2026",,$17.99,Amazon (Return),Income,Amazon Return,PNC Credit Card,Return / refund,$370.73,Return's,,PNC Credit Card|165,Income
+,"May 2, 2026",,$65.36,Amazon (Return),Income,Amazon Return,PNC Credit Card,Return / refund,$305.37,Return's,,PNC Credit Card|166,Income
+,"May 2, 2026",,$42.19,Amazon (Return),Income,Amazon Return,PNC Credit Card,Return / refund,$263.18,Return's,,PNC Credit Card|167,Income
+,"May 4, 2026",$200.00,,Check #305,Expenses,Wedding,PNC Checking,,"$4,837.32",Checks Written,,PNC Checking|104,Cash & Checks
+,"May 4, 2026",$4.18,,Walmart,Expenses,Groceries,PNC Credit Card,,$267.36,Shopping,,PNC Credit Card|168,Shopping
+,"May 4, 2026",,,Annual Membership Fee,Expenses,Fee,US Bank Credit Card,,$241.18,Fees & Service Charges,,US Bank Credit Card|7,Fees & Taxes
+,"May 4, 2026",$75.86,,Pick 'n Save,Expenses,Groceries,US Bank Credit Card,,$317.04,Groceries,,US Bank Credit Card|8,Food
+,"May 4, 2026",$17.94,,Pick 'n Save,Expenses,Groceries,US Bank Credit Card,,$334.98,Groceries,,US Bank Credit Card|9,Food
+,"May 4, 2026",$35.60,,Kohl's,Expenses,Personal,US Bank Credit Card,,$370.58,Shopping,,US Bank Credit Card|10,Shopping
+,"May 4, 2026",$10.55,,Dollar Tree,Expenses,Personal,US Bank Credit Card,,$381.13,Shopping,,US Bank Credit Card|11,Shopping
+,"May 5, 2026",$220.00,,We Energies,Bills,Payment,PNC Checking,,"$4,617.32",Utilities,,PNC Checking|105,Bills & Utilities
+,"May 5, 2026",$3.96,,Dollar Tree,Expenses,Personal,PNC Credit Card,,$271.32,Shopping,,PNC Credit Card|169,Shopping
+,"May 6, 2026","$3,000.00",,Cash Withdrawal (deposited to US Bank Savings?),Transfer,Deposit=Savings,PNC Checking,"Likely the $2,800 US Bank Savings deposit same day - review","$1,617.32",Transfer,,PNC Checking|106,Transfers
+,"May 6, 2026",,"$2,800.00",Deposit (cash?),Transfer,Deposit=Savings,US Bank Savings,"Likely from the $3,000 PNC Checking withdrawal same day - review","$152,913.13",Transfer,,US Bank Savings|3,Transfers
+,"May 6, 2026",$40.52,,Sam's Club,Expenses,Groceries,Sam's Credit Card,,$12.64,Groceries,,Sam's Credit Card|28,Food
+,"May 6, 2026",$40.05,,Sam's Club Gas,Expenses,Gas,Sam's Credit Card,,$52.69,Gas & Fuel,,Sam's Credit Card|29,Transportation
+,"May 6, 2026",$74.54,,Sam's Club,Expenses,Jose's Work,Sam's Credit Card,,$127.23,Jose's Work Expenses,,Sam's Credit Card|30,Jose's Work Expenses
+,"May 7, 2026",$18.91,,Amazon,Expenses,Jose,PNC Credit Card,,$290.23,Shopping,,PNC Credit Card|170,Shopping
+,"May 7, 2026",$9.50,,Dollar Tree,Expenses,Personal,US Bank Credit Card,,$390.63,Shopping,,US Bank Credit Card|12,Shopping
+,"May 7, 2026",$40.86,,Walgreens,Expenses,Personal,US Bank Credit Card,,$431.49,Health & Pharmacy,,US Bank Credit Card|13,Health
+,"May 7, 2026",$18.99,,Walmart,Expenses,Birthday,US Bank Credit Card,,$450.48,Shopping,,US Bank Credit Card|14,Shopping
+,"May 8, 2026",$48.41,,US Cellular,Bills,Payment,PNC Checking,,"$1,568.91",Phone & Internet,,PNC Checking|107,Bills & Utilities
+,"May 8, 2026",$18.97,,Amazon,Expenses,Personal,PNC Credit Card,,$309.20,Shopping,,PNC Credit Card|171,Shopping
+,"May 8, 2026",$68.85,,Walmart,Expenses,Birthday,US Bank Credit Card,,$519.33,Shopping,,US Bank Credit Card|15,Shopping
+,"May 8, 2026",$122.69,,Dollar Tree,Expenses,Birthday,US Bank Credit Card,,$642.02,Shopping,,US Bank Credit Card|16,Shopping
+,"May 8, 2026",$5.25,,Auntie Anne's,Expenses,Restaurant,US Bank Credit Card,,$647.27,Dining,,US Bank Credit Card|17,Food
+,"May 8, 2026",$316.81,,WVRC Waukesha,Expenses,Dog,US Bank Credit Card,,$964.08,Other,,US Bank Credit Card|18,Other
+,"May 9, 2026",$8.70,,Dollar Tree,Expenses,Personal,PNC Credit Card,,$317.90,Shopping,,PNC Credit Card|172,Shopping
+,"May 10, 2026",,$51.64,Amazon (Return),Income,Amazon Return,PNC Credit Card,Return / refund,$266.26,Return's,,PNC Credit Card|173,Income
+,"May 10, 2026",,$40.82,Amazon (Return),Income,Amazon Return,PNC Credit Card,Return / refund,$225.44,Return's,,PNC Credit Card|174,Income
+,"May 11, 2026",$0.34,,Pick 'n Save,Expenses,Groceries,PNC Checking,,"$1,568.57",Groceries,,PNC Checking|108,Food
+,"May 11, 2026",,$10.73,Kohl's (Return),Income,Kohls Return,US Bank Credit Card,Return / refund,$953.35,Return's,,US Bank Credit Card|19,Income
+,"May 11, 2026",$12.64,,Kohl's,Expenses,Dog,US Bank Credit Card,,$965.99,Shopping,,US Bank Credit Card|20,Shopping
+,"May 11, 2026",$7.37,,Pizza Hut,Expenses,Restaurant,US Bank Credit Card,,$973.36,Dining,,US Bank Credit Card|21,Food
+,"May 12, 2026",$2.12,,Kwik Trip,Expenses,Groceries,PNC Checking,,"$1,566.45",Gas & Fuel,,PNC Checking|109,Transportation
+,"May 12, 2026",$39.58,,Walmart.com,Expenses,Groceries,US Bank Credit Card,,"$1,012.94",Shopping,,US Bank Credit Card|22,Shopping
+,"May 12, 2026",$53.96,,Kwik Trip,Expenses,Gas,US Bank Credit Card,,"$1,066.90",Gas & Fuel,,US Bank Credit Card|23,Transportation
+,"May 12, 2026",$5.47,,Kwik Trip,Expenses,Groceries,US Bank Credit Card,,"$1,072.37",Gas & Fuel,,US Bank Credit Card|24,Transportation
+,"May 13, 2026",$210.00,,Dufry (Puerto Plata),Expenses,Cigs,PNC Credit Card,,$435.44,Travel & Entertainment,,PNC Credit Card|175,Lifestyle
+,"May 13, 2026",,$5.40,Walmart.com (Return),Income,Walmart Return,US Bank Credit Card,Return / refund,"$1,066.97",Return's,,US Bank Credit Card|25,Income
+,"May 13, 2026",$1.06,,Walmart+ Membership,Expenses,,US Bank Credit Card,,"$1,068.03",Shopping,,US Bank Credit Card|26,Shopping
+,"May 14, 2026",$30.00,,Spectrum,Bills,Payment,PNC Credit Card,,$465.44,Phone & Internet,,PNC Credit Card|176,Bills & Utilities
+,"May 14, 2026",,$7.98,Walmart.com (Return),Income,Walmart Return,US Bank Credit Card,Return / refund,"$1,060.05",Return's,,US Bank Credit Card|27,Income
+,"May 14, 2026",$75.97,,Pick 'n Save,Expenses,Groceries,US Bank Credit Card,,"$1,136.02",Groceries,,US Bank Credit Card|28,Food
+,"May 14, 2026",$7.66,,Walmart,Expenses,Groceries,US Bank Credit Card,,"$1,143.68",Shopping,,US Bank Credit Card|29,Shopping
+,"May 15, 2026",,"$2,211.41",First Supply Payroll,Income,Deposit=Checking,PNC Checking,,"$3,777.86",Jose's Paycheck 💵,,PNC Checking|110,Income
+,"May 15, 2026",$232.26,,Target,Expenses,Household Items,PNC Credit Card,,$697.70,Shopping,,PNC Credit Card|177,Shopping
+,"May 15, 2026",$55.97,,Walmart.com,Expenses,Groceries,US Bank Credit Card,,"$1,199.65",Shopping,,US Bank Credit Card|30,Shopping
+,"May 15, 2026",,$12.49,Pick 'n Save (Return),Income,Pick-N-Save Return,US Bank Credit Card,Return / refund,"$1,187.16",Return's,,US Bank Credit Card|31,Income
+,"May 16, 2026",$0.99,,Kwik Trip,Expenses,Groceries,PNC Credit Card,,$698.69,Gas & Fuel,,PNC Credit Card|178,Transportation
+,"May 18, 2026",$49.14,,Festival Foods,Expenses,Groceries,US Bank Credit Card,,"$1,236.30",Groceries,,US Bank Credit Card|32,Food
+,"May 18, 2026",$3.96,,Dollar Tree,Expenses,Birthday,US Bank Credit Card,,"$1,240.26",Shopping,,US Bank Credit Card|33,Shopping
+,"May 18, 2026",,$15.66,Pick 'n Save (Return),Income,Pick-N-Save Return,US Bank Credit Card,Return / refund,"$1,224.60",Return's,,US Bank Credit Card|34,Income
+,"May 18, 2026",,$8.92,Walmart.com (Return),Income,Walmart Return,US Bank Credit Card,Return / refund,"$1,215.68",Return's,,US Bank Credit Card|35,Income
+,"May 19, 2026",$61.40,,Target,Expenses,Groceries,PNC Credit Card,,$760.09,Shopping,,PNC Credit Card|179,Shopping
+,"May 19, 2026",,$29.58,Target (Return),Income,Target Return,PNC Credit Card,Return / refund,$730.51,Return's,,PNC Credit Card|180,Income
+,"May 19, 2026",,$10.55,Target (Return),Income,Target Return,PNC Credit Card,Return / refund,$719.96,Return's,,PNC Credit Card|181,Income
+,"May 19, 2026",,$232.09,Target (Return),Income,Target Return,PNC Credit Card,Return / refund,$487.87,Return's,,PNC Credit Card|182,Income
+,"May 19, 2026",,$8.98,Target (Return),Income,Target Return,PNC Credit Card,Return / refund,$478.89,Return's,,PNC Credit Card|183,Income
+,"May 19, 2026",$3.66,,Costco,Expenses,Restaurant,PNC Credit Card,,$482.55,Groceries,,PNC Credit Card|184,Food
+,"May 19, 2026",,$31.49,Costco (Return),Income,Costco Return,PNC Credit Card,Return / refund,$451.06,Return's,,PNC Credit Card|185,Income
+,"May 19, 2026",,$42.03,Walmart (Return),Income,Walmart Return,US Bank Credit Card,Return / refund,"$1,173.65",Return's,,US Bank Credit Card|36,Income
+,"May 20, 2026",$40.18,,Target,Expenses,Dog,US Bank Credit Card,,"$1,213.83",Shopping,,US Bank Credit Card|37,Shopping
+,"May 20, 2026",$48.50,,Costco Gas,Expenses,Gas,US Bank Credit Card,,"$1,262.33",Gas & Fuel,,US Bank Credit Card|38,Transportation
+,"May 20, 2026",$83.87,,Costco,Expenses,Groceries,US Bank Credit Card,,"$1,346.20",Groceries,,US Bank Credit Card|39,Food
+,"May 20, 2026",$13.64,,Costco,Expenses,Groceries,US Bank Credit Card,,"$1,359.84",Groceries,,US Bank Credit Card|40,Food
+,"May 20, 2026",,$7.34,Walmart (Return),Income,Walmart Return,US Bank Credit Card,Return / refund,"$1,352.50",Return's,,US Bank Credit Card|41,Income
+,"May 21, 2026",,$15.43,Pick 'n Save (Return),Income,Pick-N-Save Return,US Bank Credit Card,Return / refund,"$1,337.07",Return's,,US Bank Credit Card|42,Income
+,"May 24, 2026",$13.70,,Ross,Expenses,Jose,PNC Credit Card,,$464.76,Shopping,,PNC Credit Card|186,Shopping
+,"May 25, 2026",$34.75,,Sam's Club Gas,Expenses,Gas,Sam's Credit Card,,$161.98,Gas & Fuel,,Sam's Credit Card|31,Transportation
+,"May 26, 2026",$3.13,,Kwik Trip,Expenses,Groceries,PNC Checking,,"$3,774.73",Gas & Fuel,,PNC Checking|111,Transportation
+,"May 26, 2026",,$0.02,Interest,Income,Deposit=Checking,PNC Checking,,"$3,774.75",Interest,,PNC Checking|112,Income
+,"May 26, 2026",$25.00,,Monthly Service Charge,Expenses,Fee,PNC Checking,,"$3,749.75",Fees & Service Charges,,PNC Checking|113,Fees & Taxes
+,"May 26, 2026",$103.40,,DirecTV,Bills,Payment,PNC Credit Card,,$568.16,Phone & Internet,,PNC Credit Card|187,Bills & Utilities
+,"May 26, 2026",,$473.12,Interest,Income,Deposit=Savings,US Bank Savings,,"$153,386.25",Interest,,US Bank Savings|4,Income
+,"May 26, 2026",$5.00,,Monthly Maintenance Fee,Expenses,Fee,US Bank Savings,,"$153,381.25",Fees & Service Charges,,US Bank Savings|5,Fees & Taxes
+,"May 26, 2026",,$5.00,Monthly Maintenance Fee (Waived),Expenses,US Bank Monthly Maintence Fee Refund,US Bank Savings,,"$153,386.25",Fees & Service Charges,,US Bank Savings|6,Fees & Taxes
+,"May 26, 2026",$5.98,,Menards,Expenses,Groceries,US Bank Credit Card,,"$1,343.05",Household & Home,,US Bank Credit Card|43,Housing
+,"May 27, 2026",,$25.00,Monthly Service Charge Refund,Expenses,PNC Monthly Service Fee Refund,PNC Checking,,"$3,774.75",Fees & Service Charges,,PNC Checking|114,Fees & Taxes
+,"May 27, 2026",,"$1,280.40",Social Security (SSA),Income,Deposit=Checking,PNC Checking,,"$5,055.15",Social Security,,PNC Checking|115,Income
+,"May 27, 2026","$2,000.00",,Transfer to US Bank,Transfer,Deposit=Savings,PNC Checking,Matches US Bank Savings/Checking deposit,"$3,055.15",Transfer,,PNC Checking|116,Transfers
+,"May 28, 2026",,$381.13,US Bank Credit Card Payment,Bills,Payment,US Bank Credit Card,Payment from PNC Checking,$961.92,Credit Card Payment,,US Bank Credit Card|44,Transfers
+,"May 28, 2026",$3.17,,Pizza Hut,Expenses,Restaurant,US Bank Credit Card,,$965.09,Dining,,US Bank Credit Card|45,Food
+,"May 28, 2026",$55.77,,Meijer,Expenses,Groceries,US Bank Credit Card,,"$1,020.86",Groceries,,US Bank Credit Card|46,Food
+,"May 29, 2026",,"$2,244.86",First Supply Payroll,Income,Deposit=Checking,PNC Checking,,"$5,300.01",Jose's Paycheck 💵,,PNC Checking|117,Income
+,"May 29, 2026",$381.13,,US Bank Credit Card Payment,Bills,Payment,PNC Checking,,"$4,918.88",Credit Card Payment,,PNC Checking|118,Transfers
+,"May 29, 2026",,"$2,000.00",Transfer from PNC Checking,Transfer,Deposit=Savings,US Bank Savings,Matches PNC Checking,"$155,386.25",Transfer,,US Bank Savings|7,Transfers
+,"May 29, 2026",,$0.90,Cash-Back Deal 'Home Improvement',Income,Deposit US Bank Credit Card,US Bank Credit Card,,"$1,019.96",US Bank Credit Cash Back,,US Bank Credit Card|47,Income
+,"May 29, 2026",$20.15,,Sam's Club Gas,Expenses,Gas,Sam's Credit Card,,$182.13,Gas & Fuel,,Sam's Credit Card|32,Transportation
+,"May 31, 2026",,$271.32,PNC Credit Card Payment,Bills,Payment,PNC Credit Card,Payment from PNC Checking,$296.84,Credit Card Payment,,PNC Credit Card|188,Transfers
+,"Jun 1, 2026",$3.80,,Walmart,Expenses,Groceries,PNC Checking,,"$4,915.08",Shopping,,PNC Checking|119,Shopping
+,"Jun 1, 2026",$271.32,,PNC Credit Card Payment,Bills,Payment,PNC Checking,Pays PNC Credit Card (...2106),"$4,643.76",Credit Card Payment,,PNC Checking|120,Transfers
+,"Jun 1, 2026",$32.24,,Walmart,Expenses,Groceries,US Bank Credit Card,,"$1,052.20",Shopping,,US Bank Credit Card|48,Shopping
+,"Jun 2, 2026",$12.00,,Monthly Maintenance Fee,Expenses,Fee,US Bank Checking,,$28.00,Fees & Service Charges,,US Bank Checking|2,Fees & Taxes
+,"Jun 2, 2026",,$12.00,Monthly Maintenance Fee (Waived),Expenses,US Bank Monthly Maintence Fee Refund,US Bank Checking,,$40.00,Fees & Service Charges,,US Bank Checking|3,Fees & Taxes
+,"Jun 2, 2026",,$102.16,Interest,Income,Deposit=Savings,US Bank Savings,,"$155,488.41",Interest,,US Bank Savings|8,Income
+,"Jun 2, 2026",$12.75,,Walgreens,Expenses,Dog,US Bank Credit Card,,"$1,064.95",Health & Pharmacy,,US Bank Credit Card|49,Health
+,"Jun 3, 2026",$10.53,,Aldi,Expenses,Groceries,US Bank Credit Card,,"$1,075.48",Groceries,,US Bank Credit Card|50,Food
+,"Jun 3, 2026",$23.56,,Sam's Club Gas,Expenses,Gas,Sam's Credit Card,,$205.69,Gas & Fuel,,Sam's Credit Card|33,Transportation
+,"Jun 4, 2026",,$28.94,Cash Rewards Redemption,Income,Deposit=Savings,US Bank Savings,,"$155,517.35",Rewards,,US Bank Savings|9,Income
+,"Jun 4, 2026",$47.63,,Walmart.com,Expenses,Groceries,US Bank Credit Card,,"$1,123.11",Shopping,,US Bank Credit Card|51,Shopping
+,"Jun 5, 2026",$48.41,,T-Mobile,Bills,Payment,PNC Checking,,"$4,595.35",Phone & Internet,,PNC Checking|121,Bills & Utilities
+,"Jun 5, 2026",,$0.74,Cash-Back Deal 'Aldi',Income,Walmart Return,US Bank Credit Card,,"$1,122.37",US Bank Credit Cash Back,,US Bank Credit Card|52,Income
+,"Jun 5, 2026",$49.52,,Exxon,Expenses,Gas,US Bank Credit Card,,"$1,171.89",Gas & Fuel,,US Bank Credit Card|53,Transportation
+,"Jun 5, 2026",,$30.31,Walmart.com (Return),Income,Walmart Return,US Bank Credit Card,Return / refund,"$1,141.58",Return's,,US Bank Credit Card|54,Income
+,"Jun 6, 2026",$29.52,,Amazon,Expenses,Household Items,PNC Credit Card,,$326.36,Shopping,,PNC Credit Card|189,Shopping
+,"Jun 6, 2026",,$7.08,Cash Back Redemption,Income,PNC Credit Card Rewards,PNC Credit Card,,$319.28,Rewards,,PNC Credit Card|190,Income
+,"Jun 7, 2026",$1.32,,Dollar Tree,Expenses,Birthday,PNC Credit Card,,$320.60,Shopping,,PNC Credit Card|191,Shopping
+,"Jun 8, 2026",$2.36,,Kwik Trip,Expenses,Groceries,PNC Checking,,"$4,592.99",Gas & Fuel,,PNC Checking|122,Transportation
+,"Jun 8, 2026",$105.80,,Sam's Club,Expenses,Groceries,Sam's Credit Card,,$311.49,Groceries,,Sam's Credit Card|34,Food
+,"Jun 8, 2026",,$57.97,Sam's Club Return,Income,Sam's Club Return,Sam's Credit Card,steak,$253.52,Return's,,Sam's Credit Card|35,Income
+,"Jun 9, 2026",$284.82,,Walmart.com,Expenses,Household Items,US Bank Credit Card,,"$1,426.40",Shopping,,US Bank Credit Card|55,Shopping
+,"Jun 9, 2026",,$6.74,Walmart.com (Return),Income,Walmart Return,US Bank Credit Card,Return / refund,"$1,419.66",Return's,,US Bank Credit Card|56,Income
+,"Jun 10, 2026",$220.00,,We Energies,Bills,Payment,PNC Checking,,"$4,372.99",Utilities,,PNC Checking|123,Bills & Utilities
+,"Jun 10, 2026",$41.26,,Walmart.com,Expenses,,US Bank Credit Card,,"$1,460.92",Shopping,,US Bank Credit Card|57,Shopping
+,"Jun 10, 2026",$3.99,,Kwik Trip,Expenses,Groceries,US Bank Credit Card,,"$1,464.91",Gas & Fuel,,US Bank Credit Card|58,Transportation
+,"Jun 11, 2026","$2,482.65",,Transfer to US Bank,Transfer,Deposit=Savings,PNC Checking,Matches US Bank Savings/Checking deposit,"$1,890.34",Transfer,,PNC Checking|124,Transfers
+,"Jun 12, 2026",,"$2,244.87",First Supply Payroll,Income,Deposit=Checking,PNC Checking,,"$4,135.21",Jose's Paycheck 💵,,PNC Checking|125,Income
+,"Jun 12, 2026",,"$1,054.00",Deposit,Income,Jose's Scholarship,PNC Checking,,"$5,189.21",Other Income,,PNC Checking|126,Income
+,"Jun 12, 2026",,$127.23,Sam's Credit Card Payment,Bills,Payment,Sam's Credit Card,,$126.29,Credit Card Payment,,Sam's Credit Card|36,Transfers
+,"Jun 14, 2026",$30.00,,Spectrum,Bills,Payment,PNC Credit Card,,$350.60,Phone & Internet,,PNC Credit Card|192,Bills & Utilities
+,"Jun 15, 2026",$33.59,,Woodman's Gas,Expenses,Gas,PNC Checking,,"$5,155.62",Gas & Fuel,,PNC Checking|127,Transportation
+,"Jun 15, 2026","$1,400.00",,Rocket Mortgage,Bills,Payment,PNC Checking,,"$3,755.62",Mortgage,,PNC Checking|128,Housing
+,"Jun 15, 2026",$127.23,,Sam's Credit Card Payment,Bills,Payment,PNC Checking,,"$3,628.39",Credit Card Payment,,PNC Checking|129,Transfers
+,"Jun 15, 2026",,"$2,482.65",Transfer from PNC Checking,Transfer,Deposit=Checking,US Bank Checking,Matches PNC Checking,"$2,522.65",Transfer,,US Bank Checking|4,Transfers
+,"Jun 15, 2026",$19.28,,Costco Gas,Expenses,Gas,US Bank Credit Card,,"$1,484.19",Gas & Fuel,,US Bank Credit Card|59,Transportation
+,"Jun 15, 2026",$5.63,,Froedtert Pharmacy,Prescriptions,Prescriptions,US Bank Credit Card,,"$1,489.82",Health & Pharmacy,,US Bank Credit Card|60,Health
+,"Jun 16, 2026",$2.84,,Kwik Trip,Expenses,Groceries,PNC Checking,,"$3,625.55",Gas & Fuel,,PNC Checking|130,Transportation
+,"Jun 18, 2026","$2,482.65",,Transfer to US Bank Savings,Transfer,Deposit=Savings,US Bank Checking,Matches other US Bank account,$40.00,Transfer,,US Bank Checking|5,Transfers
+,"Jun 18, 2026",,"$2,482.65",Transfer from US Bank Checking,Transfer,Deposit=Savings,US Bank Savings,Matches other US Bank account,"$158,000.00",Transfer,,US Bank Savings|10,Transfers
+,"Jun 18, 2026",$3.17,,Pizza Hut,Expenses,Restaurant,US Bank Credit Card,,"$1,492.99",Dining,,US Bank Credit Card|61,Food
+,"Jun 22, 2026",$16.64,,Fleet Farm,Expenses,Groceries,US Bank Credit Card,,"$1,509.63",Household & Home,,US Bank Credit Card|62,Housing
+,"Jun 22, 2026",$171.30,,Whitetail Crossing Bar,Expenses,Cigs,US Bank Credit Card,,"$1,680.93",Dining,,US Bank Credit Card|63,Food
+,"Jun 22, 2026",$313.34,,Types Auto,Expenses,Vehicle,US Bank Credit Card,,"$1,994.27",Vehicle & Auto,,US Bank Credit Card|64,Transportation
+,"Jun 22, 2026",$41.44,,Costco Gas,Expenses,Gas,US Bank Credit Card,,"$2,035.71",Gas & Fuel,,US Bank Credit Card|65,Transportation
+,"Jun 22, 2026",$18.92,,Walmart,Expenses,Groceries,US Bank Credit Card,,"$2,054.63",Shopping,,US Bank Credit Card|66,Shopping
+,"Jun 22, 2026",$7.12,,Dollar Tree,Expenses,Personal,US Bank Credit Card,,"$2,061.75",Shopping,,US Bank Credit Card|67,Shopping
+,"Jun 23, 2026",$0.94,,Kwik Trip,Expenses,Groceries,PNC Checking,,"$3,624.61",Gas & Fuel,,PNC Checking|131,Transportation
+,"Jun 24, 2026",,"$1,280.40",Social Security (SSA),Income,Deposit=Checking,PNC Checking,,"$4,905.01",Social Security,,PNC Checking|132,Income
+,"Jun 24, 2026",$37.97,,Costco Gas,Expenses,Gas,US Bank Credit Card,,"$2,099.72",Gas & Fuel,,US Bank Credit Card|68,Transportation
+,"Jun 25, 2026",,$0.04,Interest,Income,Deposit=Checking,PNC Checking,,"$4,905.05",Interest,,PNC Checking|133,Income
+,"Jun 25, 2026",$21.08,,Amazon,Expenses,Household Items,US Bank Credit Card,,"$2,120.80",Shopping,,US Bank Credit Card|69,Shopping
+,"Jun 25, 2026",$40.81,,Amazon,Expenses,Jose,US Bank Credit Card,,"$2,161.61",Shopping,,US Bank Credit Card|70,Shopping
+,"Jun 25, 2026",$15.81,,Amazon,Expenses,Jose,US Bank Credit Card,,"$2,177.42",Shopping,,US Bank Credit Card|71,Shopping
+,"Jun 25, 2026",$31.98,,Amazon,Expenses,Personal,US Bank Credit Card,,"$2,209.40",Shopping,,US Bank Credit Card|72,Shopping
+,"Jun 25, 2026",$63.95,,Amazon,Expenses,Groceries,US Bank Credit Card,,"$2,273.35",Shopping,,US Bank Credit Card|73,Shopping
+,"Jun 25, 2026",$15.29,,Amazon,Expenses,Household Items,US Bank Credit Card,,"$2,288.64",Shopping,,US Bank Credit Card|74,Shopping
+,"Jun 25, 2026",$32.55,,Costco Gas,Expenses,Gas,US Bank Credit Card,,"$2,321.19",Gas & Fuel,,US Bank Credit Card|75,Transportation
+,"Jun 25, 2026",$70.95,,Costco,Expenses,Groceries,US Bank Credit Card,,"$2,392.14",Groceries,,US Bank Credit Card|76,Food
+,"Jun 25, 2026",$40.57,,Sam's Club,Expenses,Jose's Work,US Bank Credit Card,,"$2,432.71",Groceries,,US Bank Credit Card|77,Food
+,"Jun 25, 2026",$67.75,,Sam's Club,Expenses,Groceries,US Bank Credit Card,,"$2,500.46",Groceries,,US Bank Credit Card|78,Food
+,"Jun 25, 2026",$3.17,,Pizza Hut,Expenses,Restaurant,US Bank Credit Card,,"$2,503.63",Dining,,US Bank Credit Card|79,Food
+,"Jun 26, 2026",,"$2,136.87",First Supply Payroll,Income,Deposit=Checking,PNC Checking,,"$7,041.92",Jose's Paycheck 💵,,PNC Checking|134,Income
+,"Jun 26, 2026",$46.04,,Target,Expenses,Groceries,PNC Credit Card,,$396.64,Shopping,,PNC Credit Card|193,Shopping
+,"Jun 26, 2026",$93.67,,DirecTV,Bills,Payment,PNC Credit Card,,$490.31,Phone & Internet,,PNC Credit Card|194,Bills & Utilities
+,"Jun 26, 2026",$54.86,,Amazon,Expenses,Household Items,US Bank Credit Card,,"$2,558.49",Shopping,,US Bank Credit Card|80,Shopping
+,"Jun 26, 2026",$23.74,,Amazon,Expenses,Household Items,US Bank Credit Card,,"$2,582.23",Shopping,,US Bank Credit Card|81,Shopping
+,"Jun 26, 2026",$51.90,,Amazon,Expenses,Groceries,US Bank Credit Card,,"$2,634.13",Shopping,,US Bank Credit Card|82,Shopping
+,"Jun 26, 2026",$22.68,,Walmart,Expenses,Groceries,US Bank Credit Card,,"$2,656.81",Shopping,,US Bank Credit Card|83,Shopping
+,"Jun 27, 2026",$4.87,,Target,Expenses,Groceries,PNC Credit Card,,$495.18,Shopping,,PNC Credit Card|195,Shopping
+,"Jun 27, 2026",$0.13,,Target,Expenses,Groceries,PNC Credit Card,,$495.31,Shopping,,PNC Credit Card|196,Shopping
+,"Jun 27, 2026",$2.48,,Target,Expenses,Groceries,PNC Credit Card,,$497.79,Shopping,,PNC Credit Card|197,Shopping
+,"Jun 27, 2026",,$19.14,Target (Return),Income,Target Return,PNC Credit Card,Return / refund,$478.65,Return's,,PNC Credit Card|198,Income
+,"Jun 29, 2026",$7.43,,Kwik Trip,Expenses,Groceries,PNC Checking,,"$7,034.49",Gas & Fuel,,PNC Checking|135,Transportation
+,"Jun 29, 2026",$296.84,,PNC Credit Card Payment,Bills,Payment,PNC Checking,Pays PNC Credit Card (...2106),"$6,737.65",Credit Card Payment,,PNC Checking|136,Transfers
+,"Jun 29, 2026",,$296.84,PNC Credit Card Payment,Bills,Payment,PNC Credit Card,Payment from PNC Checking,$181.81,Credit Card Payment,,PNC Credit Card|199,Transfers
+,"Jun 29, 2026",,"$2,000.00",US Bank Credit Card Payment,Bills,Payment,US Bank Credit Card,Payment from PNC Checking,$656.81,Credit Card Payment,,US Bank Credit Card|84,Transfers
+,"Jun 29, 2026",$31.15,,Raising Cane's,Expenses,Restaurant,US Bank Credit Card,,$687.96,Dining,,US Bank Credit Card|85,Food
+,"Jun 29, 2026",$24.24,,Amazon,Expenses,Household Items,US Bank Credit Card,,$712.20,Shopping,,US Bank Credit Card|86,Shopping
+,"Jun 29, 2026",$37.80,,Amazon,Expenses,Household Items,US Bank Credit Card,,$750.00,Shopping,,US Bank Credit Card|87,Shopping
+,"Jun 29, 2026",$219.85,,Walmart.com,Expenses,Personal,US Bank Credit Card,,$969.85,Shopping,,US Bank Credit Card|88,Shopping
+,"Jun 29, 2026",$19.84,,Amazon,Expenses,Household Items,US Bank Credit Card,,$989.69,Shopping,,US Bank Credit Card|89,Shopping
+,"Jun 29, 2026",$489.48,,Walmart.com,Expenses,Household Items,US Bank Credit Card,,"$1,479.17",Shopping,,US Bank Credit Card|90,Shopping
+,"Jun 29, 2026",$113.47,,Amazon,Expenses,Personal,US Bank Credit Card,,"$1,592.64",Shopping,,US Bank Credit Card|91,Shopping
+,"Jun 29, 2026",$54.25,,Kwik Trip,Expenses,Gas,US Bank Credit Card,,"$1,646.89",Gas & Fuel,,US Bank Credit Card|92,Transportation
+,"Jun 29, 2026",$50.00,,Kwik Trip,Expenses,Misc,US Bank Credit Card,,"$1,696.89",Gas & Fuel,,US Bank Credit Card|93,Transportation
+,"Jun 30, 2026","$2,000.00",,US Bank Credit Card Payment,Bills,Payment,PNC Checking,,"$4,737.65",Credit Card Payment,,PNC Checking|137,Transfers
+,"Jun 30, 2026","$2,000.00",,Transfer to US Bank,Transfer,Deposit=Savings,PNC Checking,Matches US Bank Savings/Checking deposit,"$2,737.65",Transfer,,PNC Checking|138,Transfers
+,"Jun 30, 2026",$111.06,,Amazon,Expenses,Personal,US Bank Credit Card,,"$1,807.95",Shopping,,US Bank Credit Card|94,Shopping
+,"Jun 30, 2026",$46.29,,Amazon,Expenses,Household Items,US Bank Credit Card,,"$1,854.24",Shopping,,US Bank Credit Card|95,Shopping
+,"Jul 1, 2026",$3.76,,Kwik Trip,Expenses,Groceries,PNC Checking,,"$2,733.89",Gas & Fuel,,PNC Checking|139,Transportation
+,"Jul 1, 2026",$41.33,,Target,Expenses,Dog,PNC Credit Card,,$223.14,Shopping,,PNC Credit Card|200,Shopping
+,"Jul 1, 2026",,$6.64,Target (Return),Income,Target Return,PNC Credit Card,Return / refund,$216.50,Return's,,PNC Credit Card|201,Income
+,"Jul 1, 2026",$4.94,,Amazon,Expenses,Dog,US Bank Credit Card,,"$1,859.18",Shopping,,US Bank Credit Card|96,Shopping
+,"Jul 1, 2026",$28.40,,Amazon,Expenses,Household Items,US Bank Credit Card,,"$1,887.58",Shopping,,US Bank Credit Card|97,Shopping
+,"Jul 1, 2026",,$37.02,Amazon (Return),Income,Amazon Return,US Bank Credit Card,Return / refund,"$1,850.56",Return's,,US Bank Credit Card|98,Income
+,"Jul 1, 2026",,$111.06,Amazon (Return),Income,Amazon Return,US Bank Credit Card,Return / refund,"$1,739.50",Return's,,US Bank Credit Card|99,Income
+,"Jul 2, 2026",,"$2,000.00",Transfer from PNC Checking,Transfer,Deposit=Checking,US Bank Checking,Matches PNC Checking,"$2,040.00",Transfer,,US Bank Checking|6,Transfers
+,"Jul 2, 2026",$12.00,,Monthly Maintenance Fee,Expenses,Fee,US Bank Checking,,"$2,028.00",Fees & Service Charges,,US Bank Checking|7,Fees & Taxes
+,"Jul 2, 2026",,$12.00,Monthly Maintenance Fee (Waived),Expenses,US Bank Monthly Maintence Fee Refund,US Bank Checking,,"$2,040.00",Fees & Service Charges,,US Bank Checking|8,Fees & Taxes
+,"Jul 2, 2026",,$443.82,Interest,Income,Deposit=Savings,US Bank Savings,,"$158,443.82",Interest,,US Bank Savings|11,Income
+,"Jul 2, 2026",$5.00,,Monthly Maintenance Fee,Expenses,Fee,US Bank Savings,,"$158,438.82",Fees & Service Charges,,US Bank Savings|12,Fees & Taxes
+,"Jul 2, 2026",,$5.00,Monthly Maintenance Fee (Waived),Expenses,US Bank Monthly Maintence Fee Refund,US Bank Savings,,"$158,443.82",Fees & Service Charges,,US Bank Savings|13,Fees & Taxes
+,"Jul 2, 2026",,$63.95,Amazon (Return),Income,Amazon Return,US Bank Credit Card,Return / refund,"$1,675.55",Return's,,US Bank Credit Card|100,Income
+,"Jul 2, 2026",$12.75,,Walgreens,Expenses,Prescriptions,US Bank Credit Card,,"$1,688.30",Health & Pharmacy,,US Bank Credit Card|101,Health
+,"Jul 2, 2026",$420.00,,Extra Space Storage,Bills,Payment,US Bank Credit Card,,"$2,108.30",Household & Home,,US Bank Credit Card|102,Housing
+,"Jul 3, 2026",$33.15,,Costco Gas,Expenses,Gas,PNC Credit Card,,$249.65,Gas & Fuel,,PNC Credit Card|202,Transportation
+,"Jul 6, 2026",$48.37,,Woodman's Food Market,Expenses,Groceries,PNC Checking,,"$2,685.52",Groceries,,PNC Checking|140,Food
+,"Jul 6, 2026",$45.85,,T-Mobile,Bills,Payment,PNC Checking,,"$2,639.67",Phone & Internet,,PNC Checking|141,Bills & Utilities
+,"Jul 6, 2026","$2,000.00",,Transfer to US Bank Savings,Transfer,Deposit=Savings,US Bank Checking,Matches other US Bank account,$40.00,Transfer,,US Bank Checking|9,Transfers
+,"Jul 6, 2026",,"$2,000.00",Transfer from US Bank Checking,Transfer,Deposit=Savings,US Bank Savings,Matches other US Bank account,"$160,443.82",Transfer,,US Bank Savings|14,Transfers
+,"Jul 6, 2026",,$60.88,Cash Rewards Redemption,Income,Deposit=Savings,US Bank Savings,,"$160,504.70",Rewards,,US Bank Savings|15,Income
+,"Jul 6, 2026",$61.10,,Meijer,Expenses,Groceries,US Bank Credit Card,,"$2,169.40",Groceries,,US Bank Credit Card|103,Food
+,"Jul 7, 2026",$4.54,,Kwik Trip,Expenses,Groceries,PNC Checking,,"$2,635.13",Gas & Fuel,,PNC Checking|142,Transportation
+,"Jul 8, 2026",,$18.45,Amazon (Return),Income,Amazon Return,PNC Credit Card,Return / refund,$231.20,Return's,,PNC Credit Card|203,Income
+,"Jul 8, 2026",,$7.59,Amazon (Return),Income,Amazon Return,US Bank Credit Card,Return / refund,"$2,161.81",Return's,,US Bank Credit Card|104,Income
+,"Jul 8, 2026",,$8.43,Amazon (Return),Income,Amazon Return,US Bank Credit Card,Return / refund,"$2,153.38",Return's,,US Bank Credit Card|105,Income
+,"Jul 8, 2026",$6.59,,Dollar Tree,Expenses,Personal,US Bank Credit Card,,"$2,159.97",Shopping,,US Bank Credit Card|106,Shopping
+,"Jul 8, 2026",$64.22,,Sam's Club (Online),Expenses,Groceries,US Bank Credit Card,,"$2,224.19",Shopping,,US Bank Credit Card|107,Shopping
+,"Jul 9, 2026",,$31.56,Target (Return),Income,Target Return,PNC Credit Card,Return / refund,$199.64,Return's,,PNC Credit Card|204,Income
+,"Jul 9, 2026",$580.40,,American Airlines,Expenses,Jose,US Bank Credit Card,,"$2,804.59",Travel & Entertainment,,US Bank Credit Card|108,Lifestyle
+,"Jul 9, 2026",$3.17,,Pizza Hut,Expenses,Restaurant,US Bank Credit Card,,"$2,807.76",Dining,,US Bank Credit Card|109,Food
+,"Jul 9, 2026",,$160.35,Walmart.com (Return),Income,Walmart Return,US Bank Credit Card,Return / refund,"$2,647.41",Return's,,US Bank Credit Card|110,Income
+,"Jul 9, 2026",,$184.61,Sam's Club Return,Income,Sam's Club Return,Sam's Credit Card,Return,-$58.32,Return's,,Sam's Credit Card|37,Income
+,"Jul 9, 2026",$94.61,,Sam's Club,Expenses,Groceries,Sam's Credit Card,,$36.29,Groceries,,Sam's Credit Card|38,Food
+,"Jul 10, 2026",,"$2,285.44",First Supply Payroll,Income,Deposit=Checking,PNC Checking,,"$4,920.57",Jose's Paycheck 💵,,PNC Checking|143,Income
+,"Jul 10, 2026",$220.00,,We Energies,Bills,Payment,PNC Checking,,"$4,700.57",Utilities,,PNC Checking|144,Bills & Utilities
+,"Jul 10, 2026",$28.94,,Uber,Expenses,Jose,PNC Credit Card,,$228.58,Travel & Entertainment,,PNC Credit Card|205,Lifestyle
+,"Jul 10, 2026",$116.42,,Hilton Hotels,Expenses,Jose,PNC Credit Card,,$345.00,Travel & Entertainment,,PNC Credit Card|206,Lifestyle
+,"Jul 10, 2026",,$25.01,Amazon (Return),Income,Amazon Return,US Bank Credit Card,Return / refund,"$2,622.40",Return's,,US Bank Credit Card|111,Income
+,"Jul 10, 2026",$99.17,,Amazon,Expenses,Personal,US Bank Credit Card,,"$2,721.57",Shopping,,US Bank Credit Card|112,Shopping
+,"Jul 10, 2026",$23.57,,Target,Expenses,Household Items,US Bank Credit Card,,"$2,745.14",Shopping,,US Bank Credit Card|113,Shopping
+,"Jul 10, 2026",$24.70,,Costco Gas,Expenses,Gas,US Bank Credit Card,,"$2,769.84",Gas & Fuel,,US Bank Credit Card|114,Transportation
+,"Jul 10, 2026",,$12.59,Costco (Return),Income,Costco Return,US Bank Credit Card,Return / refund,"$2,757.25",Return's,,US Bank Credit Card|115,Income
+,"Jul 10, 2026",$3.29,,Costco,Expenses,Groceries,US Bank Credit Card,,"$2,760.54",Groceries,,US Bank Credit Card|116,Food
+,"Jul 10, 2026",$2.64,,Dollar Tree,Expenses,Personal,US Bank Credit Card,,"$2,763.18",Shopping,,US Bank Credit Card|117,Shopping
+,"Jul 10, 2026",$33.76,,HomeGoods,Expenses,Personal,US Bank Credit Card,,"$2,796.94",Shopping,,US Bank Credit Card|118,Shopping
+,"Jul 11, 2026",$9.36,,Harris Teeter,Expenses,Jose,PNC Credit Card,,$354.36,Groceries,,PNC Credit Card|207,Food
+,"Jul 12, 2026",$34.78,,Tst* Metro Diner - West A,Expenses,Jose,PNC Credit Card,,$389.14,Dining,,PNC Credit Card|208,Food
+,"Jul 12, 2026",,$43.12,Sam's Club Return,Income,Sam's Club Return,Sam's Credit Card,Dog Treats & flower pots,-$6.83,Return's,,Sam's Credit Card|39,Income
+,"Jul 12, 2026",$5.39,,Sam's Club,Expenses,Groceries,Sam's Credit Card,,-$1.44,Groceries,,Sam's Credit Card|40,Food
+,"Jul 13, 2026",$138.87,,City of West Bend (Water/Utilities),Bills,Payment,PNC Checking,,"$4,561.70",Utilities,,PNC Checking|145,Bills & Utilities
+,"Jul 13, 2026",$6.33,,Dollar Tree,Expenses,Birthday,PNC Credit Card,,$395.47,Shopping,,PNC Credit Card|209,Shopping
+,"Jul 13, 2026",$7.47,,Walmart,Expenses,Birthday,US Bank Credit Card,,"$2,804.41",Shopping,,US Bank Credit Card|119,Shopping
+,"Jul 13, 2026",$54.42,,Exxon,Expenses,Gas,US Bank Credit Card,,"$2,858.83",Gas & Fuel,,US Bank Credit Card|120,Transportation
+,"Jul 13, 2026",$22.93,,Exxon,Expenses,Gas,US Bank Credit Card,,"$2,881.76",Gas & Fuel,,US Bank Credit Card|121,Transportation
+,"Jul 13, 2026",$56.97,,Dollar Tree,Expenses,Birthday,US Bank Credit Card,,"$2,938.73",Shopping,,US Bank Credit Card|122,Shopping
+,"Jul 13, 2026",$31.62,,Walmart,Expenses,Birthday,US Bank Credit Card,,"$2,970.35",Shopping,,US Bank Credit Card|123,Shopping
+,"Jul 14, 2026","$1,400.00",,Rocket Mortgage,Bills,Payment,PNC Checking,,"$3,161.70",Mortgage,,PNC Checking|146,Housing
+,"Jul 14, 2026",$30.00,,Spectrum,Bills,Payment,PNC Credit Card,,$425.47,Phone & Internet,,PNC Credit Card|210,Bills & Utilities
+,"Jul 14, 2026",$6.86,,Dollar Tree,Expenses,Birthday,US Bank Credit Card,,"$2,977.21",Shopping,,US Bank Credit Card|124,Shopping
+,"Jul 14, 2026",$26.94,,Walmart,Expenses,Groceries,US Bank Credit Card,,"$3,004.15",Shopping,,US Bank Credit Card|125,Shopping
+,"Jul 15, 2026",$5.30,,Kwik Trip,Expenses,Groceries,PNC Checking,,"$3,156.40",Gas & Fuel,,PNC Checking|147,Transportation
+,"Jul 15, 2026",$121.26,,Target,Expenses,Groceries,PNC Credit Card,,$546.73,Shopping,,PNC Credit Card|211,Shopping
+,"Jul 15, 2026",,$49.60,Target (Return),Income,Target Return,PNC Credit Card,Return / refund,$497.13,Return's,,PNC Credit Card|212,Income
+,"Jul 15, 2026",,$254.00,Walmart.com (Return),Income,Walmart Return,US Bank Credit Card,Return / refund,"$2,750.15",Return's,,US Bank Credit Card|126,Income
+,"Jul 15, 2026",$58.44,,Sam's Club,Expenses,Groceries,Sam's Credit Card,,$57.00,Groceries,,Sam's Credit Card|41,Food
+,"Jul 16, 2026",$200.00,,ATM / Cash Withdrawal,Debts,Jose,PNC Checking,,"$2,956.40",Cash Withdrawal,,PNC Checking|148,Cash & Checks
+,"Jul 16, 2026",,$12.71,Target (Return),Income,Target Return,PNC Credit Card,Return / refund,$484.42,Return's,,PNC Credit Card|213,Income
+,"Jul 16, 2026",,$11.25,Target (Return),Income,Target Return,PNC Credit Card,Return / refund,$473.17,Return's,,PNC Credit Card|214,Income
+,"Jul 16, 2026",,$10.10,Target (Return),Income,Target Return,PNC Credit Card,Return / refund,$463.07,Return's,,PNC Credit Card|215,Income
+,"Jul 16, 2026",$7.91,,Dollar Tree,Expenses,Birthday,US Bank Credit Card,,"$2,758.06",Shopping,,US Bank Credit Card|127,Shopping
+,"Jul 16, 2026",,$29.00,Sam's Club Return,Income,Sam's Club Return,Sam's Credit Card,Ground Beef,$28.00,Return's,,Sam's Credit Card|42,Income
+,"Jul 17, 2026",,$6.00,Kwik Trip (Return),Income,Kwik Trip Return,PNC Checking,Return / refund,"$2,962.40",Return's,,PNC Checking|149,Income
+,"Jul 17, 2026",$200.00,,Check #307,Expenses,Present,PNC Checking,,"$2,762.40",Checks Written,,PNC Checking|150,Cash & Checks
+,"Jul 17, 2026",$11.86,,Kwik Trip,Expenses,Groceries,PNC Checking,,"$2,750.54",Gas & Fuel,,PNC Checking|151,Transportation
+,"Jul 18, 2026",$21.24,,Costco Gas,Expenses,Gas,PNC Credit Card,,$484.31,Gas & Fuel,,PNC Credit Card|216,Transportation
+,"Jul 20, 2026",$400.00,,ATM / Cash Withdrawal,Debts,Dog,PNC Checking,,"$2,350.54",Cash Withdrawal,,PNC Checking|152,Cash & Checks
+,"Jul 20, 2026","$1,500.00",,Transfer to US Bank,Transfer,Deposit=Savings,PNC Checking,Matches US Bank Savings/Checking deposit,$850.54,Transfer,,PNC Checking|153,Transfers
+,"Jul 20, 2026",$85.15,,WI DOT Vehicle Fees,Bills,Vehicle,PNC Checking,,$765.39,Vehicle & Auto,,PNC Checking|154,Transportation
+,"Jul 20, 2026",$1.42,,Kwik Trip,Expenses,Groceries,PNC Checking,,$763.97,Gas & Fuel,,PNC Checking|155,Transportation
+,"Jul 20, 2026",,$12.91,Target (Return),Income,Target Return,PNC Credit Card,Return / refund,$471.40,Return's,,PNC Credit Card|217,Income
+,"Jul 20, 2026",,$11.51,Target (Return),Income,Target Return,PNC Credit Card,Return / refund,$459.89,Return's,,PNC Credit Card|218,Income
+,"Jul 21, 2026",,$49.56,Amazon (Return),Income,Amazon Return,US Bank Credit Card,Return / refund,"$2,708.50",Return's,,US Bank Credit Card|128,Income
+,"Jul 21, 2026",,$27.04,Amazon (Return),Income,Amazon Return,US Bank Credit Card,Return / refund,"$2,681.46",Return's,,US Bank Credit Card|129,Income
+,"Jul 21, 2026",,$17.92,Amazon (Return),Income,Amazon Return,US Bank Credit Card,Return / refund,"$2,663.54",Return's,,US Bank Credit Card|130,Income
+,"Jul 21, 2026",,$10.48,Amazon (Return),Income,Amazon Return,US Bank Credit Card,Return / refund,"$2,653.06",Return's,,US Bank Credit Card|131,Income
+,"Jul 21, 2026",,$54.86,Amazon (Return),Income,Amazon Return,US Bank Credit Card,Return / refund,"$2,598.20",Return's,,US Bank Credit Card|132,Income
+,"Jul 21, 2026",,$36.87,Amazon (Return),Income,Amazon Return,US Bank Credit Card,Return / refund,"$2,561.33",Return's,,US Bank Credit Card|133,Income
+,"Jul 21, 2026",$10.50,,Target,Expenses,Household Items,US Bank Credit Card,,"$2,571.83",Shopping,,US Bank Credit Card|134,Shopping
+,"Jul 21, 2026",$39.91,,Walmart,Expenses,Vehicle,US Bank Credit Card,,"$2,611.74",Shopping,,US Bank Credit Card|135,Shopping
+,"Jul 21, 2026",$22.34,,The Home Depot,Expenses,Dog,US Bank Credit Card,,"$2,634.08",Household & Home,,US Bank Credit Card|136,Housing
+,"Jul 22, 2026",,"$1,280.40",Social Security (SSA),Income,Deposit=Checking,PNC Checking,,"$2,044.37",Social Security,,PNC Checking|156,Income
+,"Jul 22, 2026",$5.28,,Burger King,Expenses,Restaurant,PNC Credit Card,,$465.17,Dining,,PNC Credit Card|219,Food
+,"Jul 22, 2026",,"$1,500.00",Transfer from PNC Checking,Transfer,Deposit=Checking,US Bank Checking,Matches PNC Checking,"$1,540.00",Transfer,,US Bank Checking|10,Transfers
+,"Jul 22, 2026",,$22.34,The Home Depot (Return),Income,Home Depot Return,US Bank Credit Card,Return / refund,"$2,611.74",Return's,,US Bank Credit Card|137,Income
+,"Jul 22, 2026",$7.98,,Meijer,Expenses,Groceries,US Bank Credit Card,,"$2,619.72",Groceries,,US Bank Credit Card|138,Food
+,"Jul 23, 2026","$1,500.00",,Transfer to US Bank Savings,Transfer,Deposit=Savings,US Bank Checking,Matches other US Bank account,$40.00,Transfer,,US Bank Checking|11,Transfers
+,"Jul 23, 2026",,"$1,500.00",Transfer from US Bank Checking,Transfer,Deposit=Savings,US Bank Savings,Matches other US Bank account,"$162,004.70",Transfer,,US Bank Savings|16,Transfers
+,"Jul 23, 2026",$5.00,,Froedtert Pharmacy,Prescriptions,,US Bank Credit Card,,"$2,624.72",Health & Pharmacy,,US Bank Credit Card|139,Health
+,"Jul 24, 2026",,"$2,208.91",First Supply Payroll,Income,Deposit=Checking,PNC Checking,,"$4,253.28",Jose's Paycheck 💵,,PNC Checking|157,Income
+,"Jul 24, 2026",$2.37,,Kwik Trip,Expenses,Groceries,PNC Checking,,"$4,250.91",Gas & Fuel,,PNC Checking|158,Transportation
+,"Jul 24, 2026",$1.23,,Kwik Trip,Expenses,Groceries,PNC Checking,,"$4,249.68",Gas & Fuel,,PNC Checking|159,Transportation
+,"Jul 24, 2026",,$0.03,Interest,Income,Deposit=Checking,PNC Checking,,"$4,249.71",Interest,,PNC Checking|160,Income
+,"Jul 26, 2026",$1.32,,Dollar Tree,Expenses,Funeral,PNC Credit Card,,$466.49,Shopping,,PNC Credit Card|220,Shopping
+,"Jul 26, 2026",$4.70,,Costco,Expenses,Restaurant,PNC Credit Card,,$471.19,Groceries,,PNC Credit Card|221,Food
+,"Jul 27, 2026",$16.19,,Sam's Club,Expenses,Groceries,US Bank Credit Card,,"$2,640.91",Groceries,,US Bank Credit Card|140,Food
+,"Jul 27, 2026",$35.91,,Costco Gas,Expenses,Gas,US Bank Credit Card,,"$2,676.82",Gas & Fuel,,US Bank Credit Card|141,Transportation
+,"Jul 27, 2026",$73.80,,Costco,Expenses,Groceries,US Bank Credit Card,,"$2,750.62",Groceries,,US Bank Credit Card|142,Food
+,"Jul 27, 2026",$52.47,,Costco,Expenses,Jose's Work,US Bank Credit Card,,"$2,803.09",Groceries,,US Bank Credit Card|143,Food
+,"Jul 27, 2026",$102.91,,Sam's Club,Expenses,Groceries,US Bank Credit Card,,"$2,906.00",Groceries,,US Bank Credit Card|144,Food
+,"Jul 27, 2026",,$284.82,Walmart.com (Return),Income,Walmart Return,US Bank Credit Card,Return / refund,"$2,621.18",Return's,,US Bank Credit Card|145,Income
+,"Jul 28, 2026",$6.00,,Kwik Trip,Expenses,Groceries,PNC Checking,,"$4,243.71",Gas & Fuel,,PNC Checking|161,Transportation
+,"Jul 28, 2026",$2.84,,Kwik Trip,Expenses,Groceries,PNC Checking,,"$4,240.87",Gas & Fuel,,PNC Checking|162,Transportation
+,"Jul 28, 2026",$92.59,,Woodman's Food Market,Expenses,Groceries,PNC Checking,,"$4,148.28",Groceries,,PNC Checking|163,Food
+,"Jul 29, 2026",$0.95,,Kwik Trip,Expenses,Groceries,PNC Checking,,"$4,147.33",Gas & Fuel,,PNC Checking|164,Transportation
+,"Jul 29, 2026",$0.95,,Kwik Trip,Expenses,Groceries,PNC Checking,,"$4,146.38",Gas & Fuel,,PNC Checking|165,Transportation
+,"Jul 29, 2026",$253.19,,Target,Expenses,Household Items,PNC Credit Card,,$724.38,Shopping,,PNC Credit Card|222,Shopping
+,"Jul 29, 2026",$1.47,,Walmart,Expenses,Groceries,PNC Credit Card,,$725.85,Shopping,,PNC Credit Card|223,Shopping
+,"Jul 29, 2026",$24.14,,Walmart,Expenses,Groceries,US Bank Credit Card,,"$2,645.32",Shopping,,US Bank Credit Card|146,Shopping
+,"Jul 29, 2026",$1.00,,Kwik Trip,Expenses,Groceries,US Bank Credit Card,,"$2,646.32",Gas & Fuel,,US Bank Credit Card|147,Transportation
+,"Jul 29, 2026",$1.00,,Kwik Trip,Expenses,Groceries,US Bank Credit Card,,"$2,647.32",Gas & Fuel,,US Bank Credit Card|148,Transportation
+,"Jul 30, 2026","$1,000.00",,Transfer to US Bank,Transfer,Deposit=Savings,PNC Checking,Matches US Bank Savings/Checking deposit,"$3,146.38",Transfer,,PNC Checking|166,Transfers
+,"Jul 31, 2026",$5.22,,Kwik Trip,Expenses,Groceries,PNC Checking,,"$3,141.16",Gas & Fuel,,PNC Checking|167,Transportation
+,"Jul 31, 2026",$249.65,,PNC Credit Card Payment,Bills,Payment,PNC Checking,Pays PNC Credit Card (...2106),"$2,891.51",Credit Card Payment,,PNC Checking|168,Transfers
+,"Jul 31, 2026",,$249.65,PNC Credit Card Payment,Bills,Payment,PNC Credit Card,Payment from PNC Checking,$476.20,Credit Card Payment,,PNC Credit Card|224,Transfers
+,"Jul 31, 2026",,"$1,137.00",US Bank Credit Card Payment,Bills,Payment,US Bank Credit Card,Payment from PNC Checking,"$1,510.32",Credit Card Payment,,US Bank Credit Card|149,Transfers
+,"Jul 31, 2026",$18.49,,Amazon,Expenses,Personal,US Bank Credit Card,,"$1,528.81",Shopping,,US Bank Credit Card|150,Shopping
+,"Aug 1, 2026",$28.47,,Target,Expenses,Personal,PNC Credit Card,,$504.67,Shopping,,PNC Credit Card|225,Shopping
+,"Aug 1, 2026",$8.44,,Target,Expenses,Personal,PNC Credit Card,,$513.11,Shopping,,PNC Credit Card|226,Shopping
+,"Aug 3, 2026",,"$3,600.00",Deposit,Income,Deposit=Checking,PNC Checking,,"$6,491.51",Other Income,,PNC Checking|169,Income
+,"Aug 3, 2026","$1,137.00",,US Bank Credit Card Payment,Bills,Payment,PNC Checking,,"$5,354.51",Credit Card Payment,,PNC Checking|170,Transfers
+,"Aug 3, 2026",$35.08,,Kwik Trip,Expenses,Gas,PNC Checking,,"$5,319.43",Gas & Fuel,,PNC Checking|171,Transportation
+,"Aug 3, 2026",,"$1,000.00",Transfer from PNC Checking,Transfer,Deposit=Savings,US Bank Savings,Matches PNC Checking,"$163,004.70",Transfer,,US Bank Savings|17,Transfers
+,"Aug 4, 2026",$3.17,,Pizza Hut,Expenses,Restaurant,PNC Credit Card,,$516.28,Dining,,PNC Credit Card|227,Food
+,"Aug 4, 2026",$12.00,,Monthly Maintenance Fee,Expenses,Fee,US Bank Checking,,$28.00,Fees & Service Charges,,US Bank Checking|12,Fees & Taxes
+,"Aug 4, 2026",,$12.00,Monthly Maintenance Fee (Waived),Expenses,US Bank Monthly Maintence Fee Refund,US Bank Checking,,$40.00,Fees & Service Charges,,US Bank Checking|13,Fees & Taxes
+,"Aug 4, 2026",,$501.38,Interest,Income,Deposit=Savings,US Bank Savings,,"$163,506.08",Interest,,US Bank Savings|18,Income
+,"Aug 4, 2026",$5.00,,Monthly Maintenance Fee,Expenses,Fee,US Bank Savings,,"$163,501.08",Fees & Service Charges,,US Bank Savings|19,Fees & Taxes
+,"Aug 4, 2026",,$5.00,Monthly Maintenance Fee (Waived),Expenses,US Bank Monthly Maintence Fee Refund,US Bank Savings,,"$163,506.08",Fees & Service Charges,,US Bank Savings|20,Fees & Taxes
+,"Aug 4, 2026","$3,604.05",,First Supply (West Bend),Expenses,Jose's Work,US Bank Credit Card,,"$5,132.86",Other,,US Bank Credit Card|151,Other
+,"Aug 5, 2026",$45.86,,T-Mobile,Bills,Payment,PNC Checking,,"$5,273.57",Phone & Internet,,PNC Checking|172,Bills & Utilities
+,"Aug 5, 2026",$0.94,,Kwik Trip,Expenses,Groceries,PNC Checking,,"$5,272.63",Gas & Fuel,,PNC Checking|173,Transportation
+,"Aug 5, 2026",$1.84,,Walmart,Expenses,Groceries,PNC Credit Card,,$518.12,Shopping,,PNC Credit Card|228,Shopping
+,"Aug 6, 2026",$46.73,,Costco Gas,Expenses,Gas,PNC Credit Card,,$564.85,Gas & Fuel,,PNC Credit Card|229,Transportation
+,"Aug 6, 2026",,$83.23,Cash Rewards Redemption,Income,US Credit Card Rewards,US Bank Savings,,"$163,589.31",Rewards,,US Bank Savings|21,Income
+,"Aug 7, 2026",,"$2,225.28",First Supply Payroll,Income,Deposit=Checking,PNC Checking,,"$7,497.91",Jose's Paycheck 💵,,PNC Checking|174,Income
+,"Aug 7, 2026",$5.28,,Burger King,Expenses,Restaurant,PNC Credit Card,,$570.13,Dining,,PNC Credit Card|230,Food
+,"Aug 7, 2026",,$11.42,Cash Back Redemption,Income,PNC Credit Card Rewards,PNC Credit Card,,$558.71,Rewards,,PNC Credit Card|231,Income
+,"Aug 10, 2026",$253.00,,We Energies,Bills,Payment,PNC Checking,,"$7,244.91",Utilities,,PNC Checking|175,Bills & Utilities
+,"Aug 10, 2026",$23.05,,Held's Meat Market,Expenses,Groceries,US Bank Credit Card,,"$5,155.91",Groceries,,US Bank Credit Card|152,Food
+,"Aug 10, 2026",$55.51,,Walmart,Expenses,Groceries,US Bank Credit Card,,"$5,211.42",Shopping,,US Bank Credit Card|153,Shopping
+,"Aug 12, 2026",$5.68,,Kwik Trip,Expenses,Groceries,PNC Checking,,"$7,239.23",Gas & Fuel,,PNC Checking|176,Transportation
+,"Aug 13, 2026",$26.48,,Heaven Scent,Expenses,Personal,US Bank Credit Card,,"$5,237.90",Shopping,,US Bank Credit Card|154,Shopping
+,"Aug 13, 2026",$10.22,,Wingstop,Expenses,Restaurant,US Bank Credit Card,,"$5,248.12",Dining,,US Bank Credit Card|155,Food
+,"Aug 13, 2026",,$28.00,Sam's Credit Card Payment,Bills,Payment,Sam's Credit Card,,-$0.00,Credit Card Payment,,Sam's Credit Card|43,Transfers
+,"Aug 14, 2026",$30.00,,Spectrum,Bills,Payment,PNC Credit Card,,$588.71,Phone & Internet,,PNC Credit Card|232,Bills & Utilities
+,"Aug 15, 2026",$1.85,,Dollar Tree,Expenses,Personal,PNC Credit Card,,$590.56,Shopping,,PNC Credit Card|233,Shopping
+,"Aug 17, 2026","$1,400.00",,Rocket Mortgage,Bills,Payment,PNC Checking,,"$5,839.23",Mortgage,,PNC Checking|177,Housing
+,"Aug 17, 2026",$28.00,,Sam's Credit Card Payment,Bills,Payment,PNC Checking,,"$5,811.23",Credit Card Payment,,PNC Checking|178,Transfers
+,"Aug 17, 2026","$1,054.00",,Check #311,Expenses,Jose's Scholarship,PNC Checking,,"$4,757.23",Checks Written,,PNC Checking|179,Cash & Checks
+,"Aug 17, 2026",$42.01,,Costco Gas,Expenses,Gas,US Bank Credit Card,,"$5,290.13",Gas & Fuel,,US Bank Credit Card|156,Transportation
+,"Aug 17, 2026",$106.60,,Kwik Trip,Expenses,Cigs,US Bank Credit Card,,"$5,396.73",Gas & Fuel,,US Bank Credit Card|157,Transportation
+,"Aug 17, 2026",$3.98,,Kwik Trip,Expenses,Groceries,US Bank Credit Card,,"$5,400.71",Gas & Fuel,,US Bank Credit Card|158,Transportation
+,"Aug 17, 2026",$96.00,,Walmart,Expenses,Groceries,US Bank Credit Card,,"$5,496.71",Shopping,,US Bank Credit Card|159,Shopping
+,"Aug 17, 2026",$13.19,,Dollar Tree,Expenses,Household Items,US Bank Credit Card,,"$5,509.90",Shopping,,US Bank Credit Card|160,Shopping
+,"Aug 18, 2026",$3.22,,Kwik Trip,Expenses,Groceries,PNC Checking,,"$4,754.01",Gas & Fuel,,PNC Checking|180,Transportation
+,"Aug 18, 2026",,$253.19,Target (Return),Income,Target Return,PNC Credit Card,Return / refund,$337.37,Return's,,PNC Credit Card|234,Income
+,"Aug 18, 2026",,$8.44,Target (Return),Income,Target Return,PNC Credit Card,Return / refund,$328.93,Return's,,PNC Credit Card|235,Income
+,"Aug 18, 2026",$10.45,,Costco,Expenses,Restaurant,PNC Credit Card,,$339.38,Groceries,,PNC Credit Card|236,Food
+,"Aug 18, 2026",$93.88,,Walmart,Expenses,Jose's Work,US Bank Credit Card,,"$5,603.78",Shopping,,US Bank Credit Card|161,Shopping
+,"Aug 18, 2026",,$28.97,Walmart (Return),Income,Walmart Return,US Bank Credit Card,Return / refund,"$5,574.81",Return's,,US Bank Credit Card|162,Income
+,"Aug 18, 2026",$44.49,,Sam's Club,Expenses,Groceries,Sam's Credit Card,,$44.49,Groceries,,Sam's Credit Card|44,Food
+,"Aug 18, 2026",,$15.97,Sam's Club Return,Income,Sam's Club Return,Sam's Credit Card,mos. chicken,$28.52,Return's,,Sam's Credit Card|45,Income
+,"Aug 19, 2026",$25.59,,Woodman's Food Market (Fuel),Expenses,Groceries,PNC Checking,,"$4,728.42",Gas & Fuel,,PNC Checking|181,Transportation
+,"Aug 19, 2026",$23.56,,Target,Expenses,Groceries,US Bank Credit Card,,"$5,598.37",Shopping,,US Bank Credit Card|163,Shopping
+,"Aug 19, 2026",$41.85,,Costco Gas,Expenses,Gas,US Bank Credit Card,,"$5,640.22",Gas & Fuel,,US Bank Credit Card|164,Transportation
+,"Aug 19, 2026",$36.99,,Costco,Expenses,Groceries,US Bank Credit Card,,"$5,677.21",Groceries,,US Bank Credit Card|165,Food
+,"Aug 20, 2026",,$21.98,Sam's Club (Return),Income,Sam's Club Return,US Bank Credit Card,Return / refund,"$5,655.23",Return's,,US Bank Credit Card|166,Income
+,"Aug 21, 2026",,"$2,136.87",First Supply Payroll,Income,Deposit=Checking,PNC Checking,,"$6,865.29",Jose's Paycheck 💵,,PNC Checking|182,Income
+,"Aug 22, 2026",$3.16,,Walmart,Expenses,Groceries,PNC Credit Card,,$342.54,Shopping,,PNC Credit Card|237,Shopping
+,"Aug 25, 2026",,$48.65,Deposit,Income,Deposit=Checking,PNC Checking,,"$6,913.94",Other Income,,PNC Checking|183,Income
+,"Aug 25, 2026",$32.95,,Costco Gas,Expenses,Gas,PNC Credit Card,,$375.49,Gas & Fuel,,PNC Credit Card|238,Transportation
+,"Aug 26, 2026",,"$1,280.40",Social Security (SSA),Income,Deposit=Checking,PNC Checking,,"$8,194.34",Social Security,,PNC Checking|184,Income
+,"Aug 26, 2026",,$0.05,Interest,Income,Deposit=Checking,PNC Checking,,"$8,194.39",Interest,,PNC Checking|185,Income
+,"Aug 26, 2026",$1.49,,Kwik Trip,Expenses,Groceries,US Bank Credit Card,,"$5,656.72",Gas & Fuel,,US Bank Credit Card|167,Transportation
+,"Aug 28, 2026",$5.00,,Meijer,Expenses,Groceries,US Bank Credit Card,,"$5,661.72",Groceries,,US Bank Credit Card|168,Food
+,"Aug 29, 2026",$2.64,,Dollar Tree,Expenses,Personal,PNC Credit Card,,$378.13,Shopping,,PNC Credit Card|239,Shopping
+,"Aug 31, 2026",$85.00,,Zelle to Kyle Christie,Expenses,Personal,PNC Checking,,"$8,109.39",Personal & Gifts,,PNC Checking|186,Lifestyle
+,"Aug 31, 2026",,"$1,625.00",Transfer from US Bank Checking,Transfer,Deposit=Checking,US Bank Checking,Matches other US Bank account,"$1,665.00",Transfer,,US Bank Checking|14,Transfers
+,"Aug 31, 2026","$1,625.00",,Transfer to US Bank Checking,Transfer,Deposit=Checking,US Bank Savings,Matches other US Bank account,"$161,964.31",Transfer,,US Bank Savings|22,Transfers
+,"Aug 31, 2026",$60.16,,Kwik Trip,Expenses,Groceries,US Bank Credit Card,,"$5,721.88",Gas & Fuel,,US Bank Credit Card|169,Transportation
+,"Aug 31, 2026",$1.69,,Kwik Trip,Expenses,Groceries,US Bank Credit Card,,"$5,723.57",Gas & Fuel,,US Bank Credit Card|170,Transportation
+,"Aug 31, 2026",$6.32,,Wingstop,Expenses,Restaurant,US Bank Credit Card,,"$5,729.89",Dining,,US Bank Credit Card|171,Food
+,"Sep 1, 2026","$2,229.00",,Erie Car Insurance,Bills,Payment,PNC Checking,,"$5,880.39",Insurance,,PNC Checking|187,Bills & Utilities
+,"Sep 1, 2026",$1.42,,Kwik Trip,Expenses,Groceries,PNC Checking,,"$5,878.97",Gas & Fuel,,PNC Checking|188,Transportation
+,"Sep 1, 2026",$250.00,,PNC Credit Card Payment,Bills,Payment,PNC Checking,Pays PNC Credit Card (...2106),"$5,628.97",Credit Card Payment,,PNC Checking|189,Transfers
+,"Sep 1, 2026",,$250.00,PNC Credit Card Payment,Bills,Payment,PNC Credit Card,Payment from PNC Checking,$128.13,Credit Card Payment,,PNC Credit Card|240,Transfers
+,"Sep 1, 2026","$1,625.00",,Erie Home Insurance,Bills,Payment,US Bank Checking,,$40.00,Insurance,,US Bank Checking|15,Bills & Utilities
+,"Sep 1, 2026",,"$5,132.86",US Bank Credit Card Payment,Bills,Payment,US Bank Credit Card,Payment from PNC Checking,$597.03,Credit Card Payment,,US Bank Credit Card|172,Transfers
+,"Sep 2, 2026","$5,132.86",,US Bank Credit Card Payment,Bills,Payment,PNC Checking,,$496.11,Credit Card Payment,,PNC Checking|190,Transfers
+,"Sep 2, 2026",$12.00,,Monthly Maintenance Fee,Expenses,Fee,US Bank Checking,,$28.00,Fees & Service Charges,,US Bank Checking|16,Fees & Taxes
+,"Sep 2, 2026",,$12.00,Monthly Maintenance Fee (Waived),Expenses,US Bank Monthly Maintence Fee Refund,US Bank Checking,,$40.00,Fees & Service Charges,,US Bank Checking|17,Fees & Taxes
+,"Sep 2, 2026",,$447.23,Interest,Income,Deposit=Savings,US Bank Savings,,"$162,411.54",Interest,,US Bank Savings|23,Income
+,"Sep 2, 2026",$5.00,,Monthly Maintenance Fee,Expenses,Fee,US Bank Savings,,"$162,406.54",Fees & Service Charges,,US Bank Savings|24,Fees & Taxes
+,"Sep 2, 2026",,$5.00,Monthly Maintenance Fee (Waived),Expenses,Deposit=Savings,US Bank Savings,,"$162,411.54",Fees & Service Charges,,US Bank Savings|25,Fees & Taxes
+,"Sep 2, 2026",$5.14,,Kwik Trip,Expenses,Groceries,US Bank Credit Card,,$602.17,Gas & Fuel,,US Bank Credit Card|173,Transportation
+,"Sep 3, 2026",$104.11,,Kwik Trip,Expenses,Cigs,PNC Checking,,$392.00,Gas & Fuel,,PNC Checking|191,Transportation
+,"Sep 4, 2026",,"$2,338.74",First Supply Payroll,Income,Deposit=Checking,PNC Checking,,"$2,730.74",Jose's Paycheck 💵,,PNC Checking|192,Income
+,"Sep 4, 2026",$26.34,,Walmart,Expenses,Birthday,PNC Credit Card,,$154.47,Shopping,,PNC Credit Card|241,Shopping
+,"Sep 4, 2026",$10.55,,Walmart,Expenses,Birthday,PNC Credit Card,,$165.02,Shopping,,PNC Credit Card|242,Shopping
+,"Sep 4, 2026",$41.00,,Costco Gas,Expenses,Gas,PNC Credit Card,,$206.02,Gas & Fuel,,PNC Credit Card|243,Transportation
+,"Sep 6, 2026",$28.39,,Costco Gas,Expenses,Gas,PNC Credit Card,,$234.41,Gas & Fuel,,PNC Credit Card|244,Transportation
+,"Sep 8, 2026",$45.86,,T-Mobile,Bills,Payment,PNC Checking,,"$2,684.88",Phone & Internet,,PNC Checking|193,Bills & Utilities
+,"Sep 8, 2026",$1.47,,Walmart,Expenses,Groceries,PNC Credit Card,,$235.88,Shopping,,PNC Credit Card|245,Shopping
+,"Sep 8, 2026",$104.00,,Hilton Hotels,Expenses,Concert,US Bank Credit Card,,$706.17,Travel & Entertainment,,US Bank Credit Card|174,Lifestyle
+,"Sep 8, 2026",$94.89,,Burlington,Expenses,Personal,US Bank Credit Card,,$801.06,Shopping,,US Bank Credit Card|175,Shopping
+,"Sep 8, 2026",$2.23,,Kwik Trip,Expenses,Groceries,US Bank Credit Card,,$803.29,Gas & Fuel,,US Bank Credit Card|176,Transportation
+,"Sep 8, 2026",$133.23,,Walmart,Expenses,Birthday,US Bank Credit Card,,$936.52,Shopping,,US Bank Credit Card|177,Shopping
+,"Sep 9, 2026",$253.00,,We Energies,Bills,Payment,PNC Checking,,"$2,431.88",Utilities,,PNC Checking|194,Bills & Utilities
+,"Sep 9, 2026",$4.26,,Kwik Trip,Expenses,Groceries,PNC Checking,,"$2,427.62",Gas & Fuel,,PNC Checking|195,Transportation
+,"Sep 9, 2026",,$12.00,Cash Rewards Redemption,Income,Deposit=Savings,US Bank Savings,,"$162,423.54",Rewards,,US Bank Savings|26,Income
+,"Sep 9, 2026",$49.77,,Auto Safety Center,Expenses,Vehicle,US Bank Credit Card,,$986.29,Vehicle & Auto,,US Bank Credit Card|178,Transportation
+,"Sep 10, 2026",$200.00,,Check #308,Expenses,Funeral,PNC Checking,,"$2,227.62",Checks Written,,PNC Checking|196,Cash & Checks
+,"Sep 10, 2026",,$28.47,Target (Return),Income,Target Return,PNC Credit Card,Return / refund,$207.41,Return's,,PNC Credit Card|246,Income
+,"Sep 11, 2026",$10.48,,Woodman's Food Market,Expenses,Groceries,PNC Checking,,"$2,217.14",Groceries,,PNC Checking|197,Food
+,"Sep 11, 2026",$4.53,,Little Caesars,Expenses,Restaurant,PNC Credit Card,,$211.94,Dining,,PNC Credit Card|247,Food
+,"Sep 11, 2026",$17.96,,Target,Expenses,Groceries,US Bank Credit Card,,"$1,004.25",Shopping,,US Bank Credit Card|179,Shopping
+,"Sep 11, 2026",$38.20,,Costco Gas,Expenses,Gas,US Bank Credit Card,,"$1,042.45",Gas & Fuel,,US Bank Credit Card|180,Transportation
+,"Sep 11, 2026",$68.99,,Sam's Club,Expenses,Groceries,US Bank Credit Card,,"$1,111.44",Groceries,,US Bank Credit Card|181,Food
+,"Sep 11, 2026",$79.99,,Sam's Club,Expenses,Jose's Work,US Bank Credit Card,,"$1,191.43",Groceries,,US Bank Credit Card|182,Food
+,"Sep 12, 2026",,$28.52,Sam's Credit Card Payment,Bills,Payment,Sam's Credit Card,,-$0.00,Credit Card Payment,,Sam's Credit Card|46,Transfers
+,"Sep 14, 2026",$28.52,,Sam's Credit Card Payment,Bills,Payment,PNC Checking,,"$2,188.62",Credit Card Payment,,PNC Checking|198,Transfers
+,"Sep 14, 2026",$30.00,,Spectrum,Bills,Payment,PNC Credit Card,,$241.94,Phone & Internet,,PNC Credit Card|248,Bills & Utilities
+,"Sep 16, 2026",,"$1,000.00",Real-Time Payment (Kelly Marie Tank-Rivera),Transfer,Deposit=Checking,PNC Checking,Matches US Bank Savings,"$3,188.62",Transfer,,PNC Checking|199,Transfers
+,"Sep 16, 2026","$1,400.00",,Rocket Mortgage,Bills,Payment,PNC Checking,,"$1,788.62",Mortgage,,PNC Checking|200,Housing
+,"Sep 16, 2026","$1,000.00",,ATM / Cash Withdrawal,Debts,Vehicle,PNC Checking,,$788.62,Cash Withdrawal,,PNC Checking|201,Cash & Checks
+,"Sep 16, 2026","$1,000.00",,Real-Time Payment to PNC Checking,Transfer,Deposit=Checking,US Bank Savings,Matches PNC Checking incoming,"$161,423.54",Transfer,,US Bank Savings|27,Transfers
+,"Sep 16, 2026",$107.78,,Kwik Trip,Expenses,Groceries,US Bank Credit Card,,"$1,299.21",Gas & Fuel,,US Bank Credit Card|183,Transportation
+,"Sep 16, 2026",$41.62,,Sam's Club,Expenses,Groceries,Sam's Credit Card,,$41.62,Groceries,,Sam's Credit Card|47,Food
+,"Sep 18, 2026",,"$2,216.86",First Supply Payroll,Income,Deposit=Checking,PNC Checking,,"$3,005.48",Jose's Paycheck 💵,,PNC Checking|202,Income
+,"Sep 21, 2026",$2.51,,Kwik Trip,Expenses,Groceries,US Bank Credit Card,,"$1,301.72",Gas & Fuel,,US Bank Credit Card|184,Transportation
+,"Sep 21, 2026",$24.24,,Meijer,Expenses,Groceries,US Bank Credit Card,,"$1,325.96",Groceries,,US Bank Credit Card|185,Food
+,"Sep 23, 2026",,"$1,280.40",Social Security (SSA),Income,Deposit=Checking,PNC Checking,,"$4,285.88",Social Security,,PNC Checking|203,Income
+,"Sep 23, 2026",$47.53,,Sam's Club,Expenses,Groceries,Sam's Credit Card,,$89.15,Groceries,,Sam's Credit Card|48,Food
+,"Sep 24, 2026",$82.17,,Woodman's Food Market,Expenses,Groceries,PNC Checking,,"$4,203.71",Groceries,,PNC Checking|204,Food
+,"Sep 24, 2026",$1.85,,Dollar Tree,Expenses,Birthday,PNC Credit Card,,$243.79,Shopping,,PNC Credit Card|249,Shopping
+,"Sep 24, 2026",$9.48,,Wingstop,Expenses,Restaurant,US Bank Credit Card,,"$1,335.44",Dining,,US Bank Credit Card|186,Food
+,"Sep 25, 2026",,$0.03,Interest,Income,Deposit=Checking,PNC Checking,,"$4,203.74",Interest,,PNC Checking|205,Income
+,"Sep 26, 2026",$29.01,,Costco Gas,Expenses,Gas,PNC Credit Card,,$272.80,Gas & Fuel,,PNC Credit Card|250,Transportation
+,"Sep 27, 2026",$59.24,,Target,Expenses,Household Items,PNC Credit Card,,$332.04,Shopping,,PNC Credit Card|251,Shopping
+,"Sep 27, 2026",$4.19,,Costco,Expenses,Restaurant,PNC Credit Card,,$336.23,Groceries,,PNC Credit Card|252,Food
+,"Sep 27, 2026",$50.61,,Costco,Expenses,Groceries,PNC Credit Card,,$386.84,Groceries,,PNC Credit Card|253,Food
+,"Sep 30, 2026",$25.88,,Costco Gas,Expenses,Gas,PNC Credit Card,,$412.72,Gas & Fuel,,PNC Credit Card|254,Transportation
+,"Oct 1, 2026",$386.84,,PNC Credit Card Payment,Bills,Payment,PNC Checking,Pays PNC Credit Card (...2106),"$3,816.90",Credit Card Payment,,PNC Checking|206,Transfers
+,"Oct 1, 2026",,$386.84,PNC Credit Card Payment,Bills,Payment,PNC Credit Card,Payment from PNC Checking,$25.88,Credit Card Payment,,PNC Credit Card|255,Transfers
+,"Oct 1, 2026",,"$1,335.44",US Bank Credit Card Payment,Bills,Payment,US Bank Credit Card,Payment from PNC Checking,-$0.00,Credit Card Payment,,US Bank Credit Card|187,Transfers
+,"Oct 2, 2026",,"$2,244.87",First Supply Payroll,Income,Deposit=Checking,PNC Checking,,"$6,061.77",Jose's Paycheck 💵,,PNC Checking|207,Income
+,"Oct 2, 2026","$1,335.44",,US Bank Credit Card Payment,Bills,Payment,PNC Checking,,"$4,726.33",Credit Card Payment,,PNC Checking|208,Transfers
+,"Oct 2, 2026",$99.99,,Kwik Trip,Expenses,Cigs,PNC Credit Card,,$125.87,Gas & Fuel,,PNC Credit Card|256,Transportation
+,"Oct 2, 2026",$12.00,,Monthly Maintenance Fee,Expenses,Fee,US Bank Checking,,$28.00,Fees & Service Charges,,US Bank Checking|18,Fees & Taxes
+,"Oct 2, 2026",,$12.00,Monthly Maintenance Fee (Waived),Expenses,US Bank Monthly Maintence Fee Refund,US Bank Checking,,$40.00,Fees & Service Charges,,US Bank Checking|19,Fees & Taxes
+,"Oct 2, 2026",,$458.25,Interest,Income,Deposit=Savings,US Bank Savings,,"$161,881.79",Interest,,US Bank Savings|28,Income
+,"Oct 2, 2026",$5.00,,Monthly Maintenance Fee,Expenses,Fee,US Bank Savings,,"$161,876.79",Fees & Service Charges,,US Bank Savings|29,Fees & Taxes
+,"Oct 2, 2026",,$5.00,Monthly Maintenance Fee (Waived),Expenses,Deposit=Savings,US Bank Savings,,"$161,881.79",Fees & Service Charges,,US Bank Savings|30,Fees & Taxes
+,"Oct 2, 2026",$17.92,,Amazon,Expenses,Home Improvements,US Bank Credit Card,,$17.92,Shopping,,US Bank Credit Card|188,Shopping
+,"Oct 2, 2026",$18.71,,Walgreens,Expenses,Health,US Bank Credit Card,,$36.63,Health & Pharmacy,,US Bank Credit Card|189,Health
+,"Oct 2, 2026",,$18.70,Walgreens (Return),Income,Walgreens Return,US Bank Credit Card,Return / refund,$17.93,Return's,,US Bank Credit Card|190,Income
+,"Oct 3, 2026",$11.03,,Walmart,Expenses,Groceries,PNC Credit Card,,$136.90,Shopping,,PNC Credit Card|257,Shopping
+,"Oct 3, 2026",$1.32,,Dollar Tree,Expenses,Birthday,PNC Credit Card,,$138.22,Shopping,,PNC Credit Card|258,Shopping
+,"Oct 5, 2026",$45.86,,T-Mobile,Bills,Payment,PNC Checking,,"$4,680.47",Phone & Internet,,PNC Checking|209,Bills & Utilities
+,"Oct 5, 2026",$100.00,,Check #306,Expenses,Funeral,PNC Checking,Sue and Tom for Sue's mom's funeral ,"$4,580.47",Checks Written,,PNC Checking|210,Cash & Checks
+,"Oct 5, 2026",,$2.81,Cash-Back Deal 'Drug Stores',Income,Deposit US Bank Credit Card,US Bank Credit Card,,$15.12,US Bank Credit Cash Back,,US Bank Credit Card|191,Income
+,"Oct 6, 2026",$6.32,,Wingstop,Expenses,Restaurant,US Bank Credit Card,,$21.44,Dining,,US Bank Credit Card|192,Food
+,"Oct 8, 2026",$253.00,,We Energies,Bills,Payment,PNC Checking,,"$4,327.47",Utilities,,PNC Checking|211,Bills & Utilities
+,"Oct 8, 2026","$2,000.00",,ATM / Cash Withdrawal,Debts,Home Improvements,PNC Checking,Backyard Concrete,"$2,327.47",Cash Withdrawal,,PNC Checking|212,Cash & Checks
+,"Oct 8, 2026","$2,000.00",,ATM / Cash Withdrawal,Debts,Home Improvements,PNC Checking,Backyard Concrete,$327.47,Cash Withdrawal,,PNC Checking|213,Cash & Checks
+,"Oct 9, 2026",,"$4,200.00",Real-Time Payment (Kelly Marie Tank-Rivera),Transfer,Deposit=Checking,PNC Checking,Matches US Bank Savings,"$4,527.47",Transfer,,PNC Checking|214,Transfers
+,"Oct 9, 2026",$3.62,,Costco Gas,Expenses,Gas,PNC Credit Card,,$141.84,Gas & Fuel,,PNC Credit Card|259,Transportation
+,"Oct 9, 2026",$45.90,,Costco Gas,Expenses,Gas,PNC Credit Card,,$187.74,Gas & Fuel,,PNC Credit Card|260,Transportation
+,"Oct 9, 2026",,$15.07,Cash Rewards Redemption,Income,Deposit=Savings,US Bank Savings,,"$161,896.86",Rewards,,US Bank Savings|31,Income
+,"Oct 9, 2026","$4,200.00",,Real-Time Payment to PNC Checking,Transfer,Deposit=Checking,US Bank Savings,Matches PNC Checking incoming,"$157,696.86",Transfer,,US Bank Savings|32,Transfers
+,"Oct 9, 2026",$12.66,,Pizza Hut,Expenses,Restaurant,US Bank Credit Card,,$34.10,Dining,,US Bank Credit Card|193,Food
+,"Oct 10, 2026",$6.49,,Kwik Trip,Expenses,Groceries,PNC Credit Card,,$194.23,Gas & Fuel,,PNC Credit Card|261,Transportation
+,"Oct 12, 2026",$7.39,,Dollar Tree,Expenses,Balloons,PNC Credit Card,,$201.62,Shopping,,PNC Credit Card|262,Shopping
+,"Oct 12, 2026",$27.49,,Menards,Expenses,Home Improvements,PNC Credit Card,,$229.11,Household & Home,,PNC Credit Card|263,Housing
+,"Oct 12, 2026",,$89.15,Sam's Credit Card Payment,Bills,Payment,Sam's Credit Card,,-$0.00,Credit Card Payment,,Sam's Credit Card|49,Transfers
+,"Oct 13, 2026","$2,000.00",,ATM / Cash Withdrawal,Debts,Cash,PNC Checking,Backyard Concrete,"$2,527.47",Cash Withdrawal,,PNC Checking|215,Cash & Checks
+,"Oct 13, 2026",$5.30,,Kwik Trip,Expenses,Groceries,PNC Checking,,"$2,522.17",Gas & Fuel,,PNC Checking|216,Transportation
+,"Oct 13, 2026",$9.98,,Meijer,Expenses,Groceries,PNC Credit Card,,$239.09,Groceries,,PNC Credit Card|264,Food
+,"Oct 14, 2026",$138.87,,City of West Bend (Water/Utilities),Bills,Payment,PNC Checking,,"$2,383.30",Utilities,,PNC Checking|217,Bills & Utilities
+,"Oct 14, 2026",$89.15,,Sam's Credit Card Payment,Bills,Payment,PNC Checking,,"$2,294.15",Credit Card Payment,,PNC Checking|218,Transfers
+,"Oct 14, 2026",$30.53,,Costco Gas,Expenses,Gas,PNC Credit Card,,$269.62,Gas & Fuel,,PNC Credit Card|265,Transportation
+,"Oct 14, 2026",$30.00,,Spectrum,Bills,Payment,PNC Credit Card,,$299.62,Phone & Internet,,PNC Credit Card|266,Bills & Utilities
+,"Oct 15, 2026","$1,400.79",,Rocket Mortgage,Bills,Payment,PNC Checking,,$893.36,Mortgage,,PNC Checking|219,Housing
+,"Oct 16, 2026",,"$2,209.83",First Supply Payroll,Income,Deposit=Checking,PNC Checking,,"$3,103.19",Jose's Paycheck 💵,,PNC Checking|220,Income
+,"Oct 16, 2026",$8.18,,Walmart,Expenses,Groceries,PNC Credit Card,,$307.80,Shopping,,PNC Credit Card|267,Shopping
+,"Oct 16, 2026",$17.88,,Piggly Wiggly,Expenses,Jose's Work,PNC Credit Card,,$325.68,Groceries,,PNC Credit Card|268,Food
+,"Oct 16, 2026",$6.31,,Menards,Expenses,Yard,PNC Credit Card,,$331.99,Household & Home,,PNC Credit Card|269,Housing
+,"Oct 17, 2026",$39.23,,Pick 'n Save,Expenses,Groceries,PNC Credit Card,,$371.22,Groceries,,PNC Credit Card|270,Food
+,"Oct 18, 2026",$1.49,,Kwik Trip,Expenses,Groceries,PNC Credit Card,,$372.71,Gas & Fuel,,PNC Credit Card|271,Transportation
+,"Oct 18, 2026",$1.58,,Dollar Tree,Expenses,Household Items,PNC Credit Card,,$374.29,Shopping,,PNC Credit Card|272,Shopping
+,"Oct 19, 2026",$99.99,,Kwik Trip,Expenses,Groceries,US Bank Credit Card,,$134.09,Gas & Fuel,,US Bank Credit Card|194,Transportation
+,"Oct 19, 2026",$42.31,,Pick 'n Save,Expenses,Groceries,US Bank Credit Card,,$176.40,Groceries,,US Bank Credit Card|195,Food
+,"Oct 20, 2026",$300.00,,ATM / Cash Withdrawal,Debts,Home Improvements,PNC Checking,,"$2,803.19",Cash Withdrawal,,PNC Checking|221,Cash & Checks
+,"Oct 20, 2026",$29.80,,Pick 'n Save,Expenses,Groceries,US Bank Credit Card,,$206.20,Groceries,,US Bank Credit Card|196,Food
+,"Oct 21, 2026",$39.47,,Costco Gas,Expenses,Gas,PNC Credit Card,,$413.76,Gas & Fuel,,PNC Credit Card|273,Transportation
+,"Oct 21, 2026",,$26.39,Pick 'n Save (Return),Income,Pick-N-Save Return,US Bank Credit Card,Return / refund,$179.81,Return's,,US Bank Credit Card|197,Income
+,"Oct 22, 2026","$2,000.00",,Transfer to US Bank,Transfer,Deposit=Savings,PNC Checking,Matches US Bank Savings/Checking deposit,$803.19,Transfer,,PNC Checking|222,Transfers
+,"Oct 22, 2026",,$2.12,Cash-Back Deal 'Pick 'N Save Delivery',Income,US Credit Card Rewards,US Bank Credit Card,,$177.69,US Bank Credit Cash Back,,US Bank Credit Card|198,Income
+,"Oct 22, 2026",$6.33,,Pizza Hut,Expenses,Restaurant,US Bank Credit Card,,$184.02,Dining,,US Bank Credit Card|199,Food
+,"Oct 23, 2026",$14.32,,Costco Gas,Expenses,Gas,PNC Credit Card,,$428.08,Gas & Fuel,,PNC Credit Card|274,Transportation
+,"Oct 24, 2026",$8.42,,Ross,Expenses,Personal,PNC Credit Card,,$436.50,Shopping,,PNC Credit Card|275,Shopping
+,"Oct 24, 2026",$55.37,,Walmart,Expenses,Groceries,PNC Credit Card,,$491.87,Shopping,,PNC Credit Card|276,Shopping
+,"Oct 26, 2026",,"$2,000.00",Transfer from PNC Checking,Transfer,Deposit=Savings,US Bank Savings,Matches PNC Checking,"$159,696.86",Transfer,,US Bank Savings|33,Transfers
+,"Oct 26, 2026",$65.50,,Sam's Club,Expenses,Groceries,US Bank Credit Card,,$249.52,Groceries,,US Bank Credit Card|200,Food
+,"Oct 27, 2026",,$0.02,Interest,Income,Deposit=Checking,PNC Checking,,$803.21,Interest,,PNC Checking|223,Income
+,"Oct 27, 2026",$6.33,,Dollar Tree,Expenses,Personal,PNC Credit Card,,$498.20,Shopping,,PNC Credit Card|277,Shopping
+,"Oct 27, 2026",$12.01,,Pick 'n Save,Expenses,Groceries,US Bank Credit Card,,$261.53,Groceries,,US Bank Credit Card|201,Food
+,"Oct 28, 2026",,"$1,280.40",Social Security (SSA),Income,Deposit=Checking,PNC Checking,,"$2,083.61",Social Security,,PNC Checking|224,Income
+,"Oct 28, 2026",$15.75,,Kwik Trip,Expenses,Groceries,PNC Checking,,"$2,067.86",Gas & Fuel,,PNC Checking|225,Transportation
+,"Oct 29, 2026",$28.74,,Woodman's Gas,Expenses,Gas,PNC Checking,,"$2,039.12",Gas & Fuel,,PNC Checking|226,Transportation
+,"Oct 29, 2026",$54.32,,T-Mobile,Bills,Misc,PNC Credit Card,,$552.52,Phone & Internet,,PNC Credit Card|278,Bills & Utilities
+,"Oct 30, 2026",,"$2,262.74",First Supply Payroll,Income,Deposit=Checking,PNC Checking,,"$4,301.86",Jose's Paycheck 💵,,PNC Checking|227,Income
+,"Oct 30, 2026",$73.31,,Kwik Trip,Expenses,Groceries,PNC Checking,,"$4,228.55",Gas & Fuel,,PNC Checking|228,Transportation
+,"Oct 30, 2026",$6.98,,Piggly Wiggly,Expenses,Groceries,PNC Credit Card,,$559.50,Groceries,,PNC Credit Card|279,Food
+,"Nov 2, 2026",$138.22,,PNC Credit Card Payment,Bills,Payment,PNC Checking,,"$4,090.33",Credit Card Payment,,PNC Checking|229,Transfers
+,"Nov 2, 2026",$421.28,,PNC Credit Card Payment,Bills,Payment,PNC Checking,,"$3,669.05",Credit Card Payment,,PNC Checking|230,Transfers
+,"Nov 2, 2026",$1.42,,Kwik Trip,Expenses,Groceries,PNC Checking,,"$3,667.63",Groceries,,PNC Checking|231,Food
+,"Nov 3, 2026",$261.53,,US Bank Credit Card Payment,Bills,Payment,PNC Checking,,"$3,406.10",Credit Card Payment,,PNC Checking|232,Transfers
+,"Nov 5, 2026",$46.44,,T-Mobile,Bills,Payment,PNC Checking,,"$3,359.66",Phone & Internet,,PNC Checking|233,Bills & Utilities
+,"Nov 6, 2026",$1.84,,Kwik Trip,Expenses,Groceries,PNC Checking,,"$3,357.82",Groceries,,PNC Checking|234,Food
+,"Nov 9, 2026",$253.00,,We Energies,Bills,Payment,PNC Checking,,"$3,104.82",Utilities,,PNC Checking|235,Bills & Utilities
+,"Oct 31, 2026",$99.99,,Kwik Trip,Expenses,Cigs,PNC Credit Card,,$659.49,Groceries,,PNC Credit Card|280,Food
+,"Oct 31, 2026",,$138.22,PNC Credit Card Payment,Bills,Payment,PNC Credit Card,Payment from PNC Checking,$521.27,Credit Card Payment,,PNC Credit Card|281,Transfers
+,"Nov 1, 2026",,$421.28,PNC Credit Card Payment,Bills,Payment,PNC Credit Card,Payment from PNC Checking,$99.99,Credit Card Payment,,PNC Credit Card|282,Transfers
+,"Oct 25, 2026",$44.02,,Sam's Club,Expenses,Groceries,Sam's Credit Card,,$44.02,Groceries,,Sam's Credit Card|50,Food
+,"Nov 3, 2026",$12.00,,Monthly Maintenance Fee,Expenses,Fee,US Bank Checking,,$28.00,Fees & Service Charges,,US Bank Checking|20,Fees & Taxes
+,"Nov 3, 2026",,$12.00,Monthly Maintenance Fee (Waived),Expenses,US Bank Monthly Maintence Fee Refund,US Bank Checking,,$40.00,Fees & Service Charges,,US Bank Checking|21,Fees & Taxes
+,"Nov 3, 2026",,$452.98,Interest,Income,Deposit=Savings,US Bank Savings,,"$160,149.84",Fees & Service Charges,,US Bank Savings|34,Fees & Taxes
+,"Nov 3, 2026",$5.00,,Monthly Maintenance Fee,Expenses,Fee,US Bank Savings,,"$160,144.84",Fees & Service Charges,,US Bank Savings|35,Fees & Taxes
+,"Nov 3, 2026",,$5.00,Monthly Maintenance Fee (Waived),Income,US Bank Monthly Maintence Fee Refund,US Bank Savings,,"$160,149.84",Interest,,US Bank Savings|36,Income
+,"Nov 2, 2026",,$261.53,US Bank Credit Card Payment,Bills,Payment,US Bank Credit Card,,-$0.00,Credit Card Payment,,US Bank Credit Card|202,Transfers
+,"Nov 6, 2026",$5.00,,Meijer Pharmacy,Prescriptions,Prescriptions,US Bank Credit Card,,$5.00,Health & Pharmacy,,US Bank Credit Card|203,Health
+,"Nov 6, 2026",$6.32,,Wingstop,Expenses,Restaurant,US Bank Credit Card,,$11.32,Dining,,US Bank Credit Card|204,Food
+,"Nov 8, 2026",$100.98,,Kwik Trip,Expenses,Groceries,US Bank Credit Card,,$112.30,Groceries,,US Bank Credit Card|205,Food

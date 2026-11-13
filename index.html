@@ -1,0 +1,30 @@
+<!doctype html>
+<html lang="en" class="dark">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>LifeBinder — Personal Mission Control</title>
+    <meta name="description" content="Rose-mauve mission-control command center in Dark & Light modes with global fuzzy search, Gemini AI integration, Apple Health gauges, habits, finance, meals, offline media, and cross-device sync." />
+    <meta property="og:title" content="LifeBinder — Personal Mission Control" />
+    <meta property="og:description" content="Rose-mauve mission-control command center in Dark & Light modes with global fuzzy search and Gemini AI integration." />
+    <meta property="og:type" content="website" />
+    <meta name="twitter:card" content="summary_large_image" />
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Outfit:wght@400;500;600;700&family=Plus+Jakarta+Sans:wght@400;500;600;700&family=Fraunces:ital,opsz,wght@0,9..144,500;0,9..144,600;0,9..144,700;1,9..144,500&family=JetBrains+Mono:wght@400;500;600;700&display=swap" rel="stylesheet">
+    <script>
+      (function () {
+        try {
+          var saved = localStorage.getItem('lifebinder_theme_v1');
+          var isLight = saved === 'light';
+          document.documentElement.classList.toggle('dark', !isLight);
+          document.documentElement.classList.toggle('light', isLight);
+        } catch (e) {}
+      })();
+    </script>
+  </head>
+  <body class="bg-[#efd0e5] dark:bg-[#120a10] text-[#2d1b28] dark:text-[#efd0e5] antialiased selection:bg-[#be7fab] selection:text-[#120a10] transition-colors duration-200">
+    <div id="root"></div>
+    <script type="module" src="/src/main.tsx"></script>
+  </body>
+</html>

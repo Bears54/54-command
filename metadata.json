@@ -1,0 +1,8 @@
+{
+  "name": "kelly BinderLife",
+  "description": "A tactile, visually aesthetic digital planner that organizes your entire life through a customizable, mobile-responsive dashboard.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}

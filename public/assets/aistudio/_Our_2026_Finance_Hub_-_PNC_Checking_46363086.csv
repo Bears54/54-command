@@ -1,0 +1,239 @@
+Menu,2026 PNC Checking,,,,,,,,,,,
+Tracker Log,"Opening $1,373.80   |   Charged $78,101.45   |   Credited $79,832.47   |   Current balance $3,104.82",,,,,,,,,,,
+Filter Log,DATE,CHARGED,CREDITED,DESCRIPTION,CATEGORY,SUB-DESCRIPTION,ACCOUNT,NOTES,BALANCE,SUB-CATEGORY,,
+Cal Setup,,,,Previous Balance,,,,,"$1,373.80",,,
+Payment Schedule,"Jan 2, 2026",,"$1,229.30",Transfer from PNC Money Market,Transfer,Deposit=Checking,PNC Checking,Matches PNC Money Market,"$2,603.10",Transfer,,3
+Calendar 1,"Jan 2, 2026","$1,015.00",,PNC Credit Card Payment,Bills,Payment,PNC Checking,Pays PNC Credit Card (...2106),"$1,588.10",Credit Card Payment,,4
+Calendar 2,"Jan 2, 2026",$85.00,,WI DOT Vehicle Fees,Bills,Payment,PNC Checking,Jeep Cherokee,"$1,503.10",Vehicle & Auto,,5
+Sync Map,"Jan 2, 2026",$85.00,,WI DOT Vehicle Fees,Bills,Payment,PNC Checking,Mitsubishi Outlander,"$1,418.10",Vehicle & Auto,,6
+Account Breakdown,"Jan 5, 2026",$150.00,,ATM / Cash Withdrawal,Debts,Cigs,PNC Checking,,"$1,268.10",Cash Withdrawal,,9
+Accounts:,"Jan 7, 2026",$200.00,,ATM / Cash Withdrawal,Debts,Jose,PNC Checking,,"$1,068.10",Cash Withdrawal,,15
+PNC Money Market,"Jan 8, 2026",$48.44,,US Cellular,Bills,Payment,PNC Checking,,"$1,019.66",Phone & Internet,,19
+PNC Checking,"Jan 9, 2026",,"$2,393.92",First Supply Payroll,Income,Deposit=Checking,PNC Checking,,"$3,413.58",Jose's Paycheck 💵,,21
+PNC Credit Card,"Jan 12, 2026",,$10.00,Walmart.com (Return),Income,Walmart Return,PNC Checking,Return / refund,"$3,423.58",Return's,,24
+US Bank Checking,"Jan 12, 2026",$47.47,,Walmart.com,Expenses,Groceries,PNC Checking,,"$3,376.11",Shopping,,25
+US Bank Savings,"Jan 12, 2026",$70.00,,ATM / Cash Withdrawal,Debts,Jose,PNC Checking,,"$3,306.11",Cash Withdrawal,,26
+US Bank Credit Card,"Jan 12, 2026",$215.00,,We Energies,Bills,Payment,PNC Checking,,"$3,091.11",Utilities,,27
+Sam's Credit Card,"Jan 15, 2026","$1,400.00",,Mr. Cooper Mortgage,Bills,Payment,PNC Checking,,"$1,691.11",Mortgage,,34
+TeamJose Account,"Jan 15, 2026",$488.44,,Sam's Credit Card Payment,Bills,Payment,PNC Checking,,"$1,202.67",Credit Card Payment,,35
+January,"Jan 15, 2026",$95.88,,City of West Bend (Water/Utilities),Bills,Payment,PNC Checking,,"$1,106.79",Utilities,,36
+February,"Jan 16, 2026",,$27.06,Walmart (Return),Income,Walmart Return,PNC Checking,Return / refund,"$1,133.85",Return's,,46
+March,"Jan 16, 2026",$488.44,,Sam's Credit Card Payment,Bills,Payment,PNC Checking,,$645.41,Credit Card Payment,,47
+April,"Jan 16, 2026",$6.43,,Kwik Trip,Expenses,Groceries,PNC Checking,,$638.98,Gas & Fuel,,48
+May,"Jan 20, 2026",$20.00,,ATM / Cash Withdrawal,Debts,Jose,PNC Checking,,$618.98,Cash Withdrawal,,55
+June,"Jan 23, 2026",,"$2,065.85",First Supply Payroll,Income,Deposit=Checking,PNC Checking,,"$2,684.83",Jose's Paycheck 💵,,64
+July,"Jan 26, 2026",$350.00,,ATM / Cash Withdrawal,Debts,Cash,PNC Checking,,"$2,334.83",Cash Withdrawal,,69
+August,"Jan 26, 2026",$10.00,,Kwik Trip,Expenses,Gas,PNC Checking,,"$2,324.83",Gas & Fuel,,70
+September,"Jan 27, 2026","$1,600.00",,Transfer to PNC Money Market,Transfer,Deposit=Money Market,PNC Checking,Matches PNC Money Market,$724.83,Transfer,,73
+October,"Jan 27, 2026",,$0.01,Interest,Income,Deposit=Checking,PNC Checking,,$724.84,Interest,,74
+November,"Jan 28, 2026",,"$1,280.40",Social Security (SSA),Income,Deposit=Checking,PNC Checking,,"$2,005.24",Social Security,,77
+December,"Jan 29, 2026",$130.00,,Passport Services,Expenses,Jose,PNC Checking,,"$1,875.24",Taxes & Gov't Fees,,78
+Monthly Breakdown,"Feb 2, 2026","$1,164.55",,PNC Credit Card Payment,Bills,Payment,PNC Checking,Pays PNC Credit Card (...2106),$710.69,Credit Card Payment,,91
+Spending Detail,"Feb 2, 2026",$21.32,,Woodman's Gas,Expenses,Gas,PNC Checking,,$689.37,Gas & Fuel,,92
+Income Detail,"Feb 2, 2026",$200.00,,ATM / Cash Withdrawal,Debts,Cash,PNC Checking,,$489.37,Cash Withdrawal,,93
+Transfers Detail,"Feb 2, 2026",$100.00,,WI DOT Vehicle Fees,Bills,Payment,PNC Checking,,$389.37,Vehicle & Auto,,94
+Yearly,"Feb 2, 2026",$25.07,,Kwik Trip,Expenses,Gas,PNC Checking,,$364.30,Gas & Fuel,,95
+Dashboard,"Feb 3, 2026",$20.62,,Woodman's Food Market,Expenses,Gas,PNC Checking,,$343.68,Groceries,,100
+Setup,"Feb 4, 2026",$1.29,,Kwik Trip,Expenses,Groceries,PNC Checking,,$342.39,Gas & Fuel,,102
+Mortgage,"Feb 6, 2026",,"$2,194.17",First Supply Payroll,Income,Deposit=Checking,PNC Checking,,"$2,536.56",Jose's Paycheck 💵,,105
+,"Feb 9, 2026",$48.43,,US Cellular,Bills,Payment,PNC Checking,,"$2,488.13",Phone & Internet,,109
+,"Feb 9, 2026",$1.42,,Kwik Trip,Expenses,Groceries,PNC Checking,,"$2,486.71",Gas & Fuel,,110
+,"Feb 11, 2026",$220.00,,We Energies,Bills,Payment,PNC Checking,,"$2,266.71",Utilities,,114
+,"Feb 12, 2026",$3.78,,Kwik Trip,Expenses,Groceries,PNC Checking,,"$2,262.93",Gas & Fuel,,119
+,"Feb 12, 2026",$1.88,,Kwik Trip,Expenses,Groceries,PNC Checking,,"$2,261.05",Gas & Fuel,,120
+,"Feb 13, 2026",$42.50,,Check #303,Expenses,Jose,PNC Checking,,"$2,218.55",Checks Written,,121
+,"Feb 17, 2026","$1,400.00",,Mr. Cooper Mortgage,Bills,Payment,PNC Checking,,$818.55,Mortgage,,127
+,"Feb 17, 2026",$5.69,,Kwik Trip,Expenses,Groceries,PNC Checking,,$812.86,Gas & Fuel,,128
+,"Feb 18, 2026",$15.91,,Kwik Trip,Expenses,Gas,PNC Checking,,$796.95,Gas & Fuel,,130
+,"Feb 19, 2026",$27.72,,Kwik Trip,Expenses,Gas,PNC Checking,,$769.23,Gas & Fuel,,132
+,"Feb 20, 2026",,"$2,065.85",First Supply Payroll,Income,Deposit=Checking,PNC Checking,,"$2,835.08",Jose's Paycheck 💵,,140
+,"Feb 23, 2026",$36.35,,Kwik Trip,Expenses,Gas,PNC Checking,,"$2,798.73",Gas & Fuel,,143
+,"Feb 24, 2026",,$0.02,Interest,Income,Deposit=Checking,PNC Checking,,"$2,798.75",Interest,,144
+,"Feb 25, 2026",,"$1,280.40",Social Security (SSA),Income,Deposit=Checking,PNC Checking,,"$4,079.15",Social Security,,145
+,"Feb 26, 2026",,"$1,000.09",Transfer from PNC acct ...5966,Transfer,Jose's Scholarship,PNC Checking,Other PNC account - not in this workbook,"$5,079.24",Transfer,,147
+,"Mar 2, 2026","$4,262.42",,PNC Credit Card Payment,Bills,Payment,PNC Checking,Pays PNC Credit Card (...2106),$816.82,Credit Card Payment,,157
+,"Mar 2, 2026",$31.09,,Woodman's Gas,Expenses,Gas,PNC Checking,,$785.73,Gas & Fuel,,158
+,"Mar 2, 2026",$85.00,,WI DOT Vehicle Fees,Bills,Payment,PNC Checking,,$700.73,Vehicle & Auto,,159
+,"Mar 2, 2026",$4.90,,Kwik Trip,Expenses,Groceries,PNC Checking,,$695.83,Gas & Fuel,,160
+,"Mar 3, 2026",$24.34,,Woodman's Food Market,Expenses,Groceries,PNC Checking,,$671.49,Groceries,,170
+,"Mar 6, 2026",,$363.00,Heart & Soul Pet Clinic (Return),Income,Heart & Soul Pet Clinic,PNC Checking,Return / refund,"$1,034.49",Refund,,173
+,"Mar 6, 2026",,"$2,173.85",First Supply Payroll,Income,Deposit=Checking,PNC Checking,,"$3,208.34",Jose's Paycheck 💵,,174
+,"Mar 9, 2026",,"$1,493.00",WI Dept of Revenue Refund,Income,,PNC Checking,,"$4,701.34",WI Revenue TAX,,179
+,"Mar 9, 2026",$48.43,,US Cellular,Bills,Payment,PNC Checking,,"$4,652.91",Phone & Internet,,180
+,"Mar 9, 2026","$2,000.00",,Transfer to PNC Money Market,Transfer,Deposit=Savings,PNC Checking,Matches PNC Money Market,"$2,652.91",Transfer,,181
+,"Mar 10, 2026","$1,400.00",,Rocket Mortgage,Bills,Payment,PNC Checking,,"$1,252.91",Mortgage,,185
+,"Mar 10, 2026",$220.00,,We Energies,Bills,Payment,PNC Checking,,"$1,032.91",Utilities,,186
+,"Mar 13, 2026",,"$3,048.66",First Supply Payroll,Income,Deposit=Checking,PNC Checking,,"$4,081.57",Jose's Paycheck 💵,,188
+,"Mar 16, 2026",$300.00,,ATM / Cash Withdrawal,Debts,Household Items,PNC Checking,,"$3,781.57",Cash Withdrawal,,193
+,"Mar 16, 2026",$300.00,,IRS Tax Payment,Expenses,Payment,PNC Checking,,"$3,481.57",Taxes & Gov't Fees,,194
+,"Mar 20, 2026",,"$2,120.71",First Supply Payroll,Income,Deposit=Checking,PNC Checking,,"$5,602.28",Jose's Paycheck 💵,,202
+,"Mar 23, 2026",$60.00,,ATM / Cash Withdrawal,Debts,Cash,PNC Checking,,"$5,542.28",Cash Withdrawal,,206
+,"Mar 23, 2026",$7.01,,Kwik Trip,Expenses,Groceries,PNC Checking,,"$5,535.27",Gas & Fuel,,207
+,"Mar 24, 2026",$1.42,,Kwik Trip,Expenses,Groceries,PNC Checking,,"$5,533.85",Gas & Fuel,,209
+,"Mar 25, 2026",,"$1,280.40",Social Security (SSA),Income,Deposit=Checking,PNC Checking,,"$6,814.25",Social Security,,210
+,"Mar 26, 2026",$36.91,,Kwik Trip,Expenses,Gas,PNC Checking,,"$6,777.34",Gas & Fuel,,213
+,"Mar 26, 2026",,$0.02,Interest,Income,Deposit=Checking,PNC Checking,,"$6,777.36",Interest,,214
+,"Mar 31, 2026",$3.22,,Kwik Trip,Expenses,Groceries,PNC Checking,,"$6,774.14",Gas & Fuel,,220
+,"Mar 31, 2026",$27.18,,Woodman's Food Market,Expenses,Groceries,PNC Checking,,"$6,746.96",Groceries,,221
+,"Mar 31, 2026",$17.24,,Woodman's Food Market,Expenses,Groceries,PNC Checking,,"$6,729.72",Groceries,,222
+,"Apr 1, 2026","$2,219.27",,PNC Credit Card Payment,Bills,Payment,PNC Checking,Pays PNC Credit Card (...2106),"$4,510.45",Credit Card Payment,,228
+,"Apr 1, 2026",$0.94,,Kwik Trip,Expenses,Groceries,PNC Checking,,"$4,509.51",Gas & Fuel,,229
+,"Apr 3, 2026",,"$2,240.77",First Supply Payroll,Income,Deposit=Checking,PNC Checking,,"$6,750.28",Jose's Paycheck 💵,,237
+,"Apr 6, 2026",$13.56,,Woodman's Gas,Expenses,Gas,PNC Checking,,"$6,736.72",Gas & Fuel,,239
+,"Apr 8, 2026",$61.32,,Kwik Trip,Expenses,Gas,PNC Checking,,"$6,675.40",Gas & Fuel,,243
+,"Apr 9, 2026",$48.43,,US Cellular,Bills,Payment,PNC Checking,,"$6,626.97",Phone & Internet,,246
+,"Apr 9, 2026",$220.00,,We Energies,Bills,Payment,PNC Checking,,"$6,406.97",Utilities,,247
+,"Apr 13, 2026","$3,397.04",,Transfer to PNC Money Market,Transfer,Deposit=Money Market,PNC Checking,Matches PNC Money Market,"$3,009.93",Transfer,,257
+,"Apr 13, 2026",$100.00,,Check #304,Expenses,Funeral,PNC Checking,,"$2,909.93",Checks Written,,258
+,"Apr 14, 2026",$117.78,,City of West Bend (Water/Utilities),Bills,Payment,PNC Checking,,"$2,792.15",Utilities,,263
+,"Apr 15, 2026",,"$1,000.00",Transfer from PNC Money Market,Transfer,Deposit=Checking,PNC Checking,Matches PNC Money Market,"$3,792.15",Transfer,,267
+,"Apr 15, 2026","$1,400.00",,Rocket Mortgage,Bills,Payment,PNC Checking,,"$2,392.15",Mortgage,,268
+,"Apr 15, 2026","$1,387.79",,Rocket Mortgage,Bills,Payment,PNC Checking,,"$1,004.36",Mortgage,,269
+,"Apr 15, 2026",$452.02,,Sam's Credit Card Payment,Bills,Payment,PNC Checking,,$552.34,Credit Card Payment,,270
+,"Apr 16, 2026",$46.29,,Kwik Trip,Expenses,Gas,PNC Checking,,$506.05,Gas & Fuel,,272
+,"Apr 17, 2026",,"$2,101.35",First Supply Payroll,Income,Deposit=Checking,PNC Checking,,"$2,607.40",Jose's Paycheck 💵,,273
+,"Apr 20, 2026",,$0.11,Transfer from PNC acct ...5966,Transfer,,PNC Checking,Other PNC account - not in this workbook,"$2,607.51",Transfer,,275
+,"Apr 20, 2026",$800.00,,ATM / Cash Withdrawal,Debts,Cash,PNC Checking,,"$1,807.51",Cash Withdrawal,,276
+,"Apr 20, 2026",$40.00,,ATM / Cash Withdrawal,Debts,Cash,PNC Checking,,"$1,767.51",Cash Withdrawal,,277
+,"Apr 20, 2026",$220.00,,ATM / Cash Withdrawal,Debts,Cash,PNC Checking,,"$1,547.51",Cash Withdrawal,,278
+,"Apr 20, 2026",$1.88,,Kwik Trip,Expenses,Groceries,PNC Checking,,"$1,545.63",Gas & Fuel,,279
+,"Apr 21, 2026",$40.00,,Transfer to US Bank,Transfer,Deposit=Checking,PNC Checking,Matches US Bank Savings/Checking deposit,"$1,505.63",Transfer,,282
+,"Apr 21, 2026",$5.66,,Kwik Trip,Expenses,Groceries,PNC Checking,,"$1,499.97",Gas & Fuel,,283
+,"Apr 22, 2026",,"$1,280.40",Social Security (SSA),Income,Deposit=Checking,PNC Checking,,"$2,780.37",Social Security,,285
+,"Apr 24, 2026",,$0.04,Interest,Income,Deposit=Checking,PNC Checking,,"$2,780.41",Interest,,292
+,"Apr 27, 2026",$2.84,,Kwik Trip,Expenses,Groceries,PNC Checking,,"$2,777.57",Gas & Fuel,,298
+,"May 1, 2026",,"$2,494.86",First Supply Payroll,Income,Deposit=Checking,PNC Checking,,"$5,272.43",Jose's Paycheck 💵,,307
+,"May 1, 2026",,$104.44,Transfer from PNC Money Market,Transfer,Deposit=Checking,PNC Checking,Matches PNC Money Market,"$5,376.87",Transfer,,308
+,"May 1, 2026",$339.55,,PNC Credit Card Payment,Bills,Payment,PNC Checking,Pays PNC Credit Card (...2106),"$5,037.32",Credit Card Payment,,309
+,"May 4, 2026",$200.00,,Check #305,Expenses,Wedding,PNC Checking,,"$4,837.32",Checks Written,,318
+,"May 5, 2026",$220.00,,We Energies,Bills,Payment,PNC Checking,,"$4,617.32",Utilities,,325
+,"May 6, 2026","$3,000.00",,Cash Withdrawal (deposited to US Bank Savings?),Transfer,Deposit=Savings,PNC Checking,"Likely the $2,800 US Bank Savings deposit same day - review","$1,617.32",Transfer,,327
+,"May 8, 2026",$48.41,,US Cellular,Bills,Payment,PNC Checking,,"$1,568.91",Phone & Internet,,336
+,"May 11, 2026",$0.34,,Pick 'n Save,Expenses,Groceries,PNC Checking,,"$1,568.57",Groceries,,345
+,"May 12, 2026",$2.12,,Kwik Trip,Expenses,Groceries,PNC Checking,,"$1,566.45",Gas & Fuel,,349
+,"May 15, 2026",,"$2,211.41",First Supply Payroll,Income,Deposit=Checking,PNC Checking,,"$3,777.86",Jose's Paycheck 💵,,360
+,"May 26, 2026",$3.13,,Kwik Trip,Expenses,Groceries,PNC Checking,,"$3,774.73",Gas & Fuel,,385
+,"May 26, 2026",,$0.02,Interest,Income,Deposit=Checking,PNC Checking,,"$3,774.75",Interest,,386
+,"May 26, 2026",$25.00,,Monthly Service Charge,Expenses,Fee,PNC Checking,,"$3,749.75",Fees & Service Charges,,387
+,"May 27, 2026",,$25.00,Monthly Service Charge Refund,Expenses,PNC Monthly Service Fee Refund,PNC Checking,,"$3,774.75",Fees & Service Charges,,393
+,"May 27, 2026",,"$1,280.40",Social Security (SSA),Income,Deposit=Checking,PNC Checking,,"$5,055.15",Social Security,,394
+,"May 27, 2026","$2,000.00",,Transfer to US Bank,Transfer,Deposit=Savings,PNC Checking,Matches US Bank Savings/Checking deposit,"$3,055.15",Transfer,,395
+,"May 29, 2026",,"$2,244.86",First Supply Payroll,Income,Deposit=Checking,PNC Checking,,"$5,300.01",Jose's Paycheck 💵,,399
+,"May 29, 2026",$381.13,,US Bank Credit Card Payment,Bills,Payment,PNC Checking,,"$4,918.88",Credit Card Payment,,400
+,"Jun 1, 2026",$3.80,,Walmart,Expenses,Groceries,PNC Checking,,"$4,915.08",Shopping,,405
+,"Jun 1, 2026",$271.32,,PNC Credit Card Payment,Bills,Payment,PNC Checking,Pays PNC Credit Card (...2106),"$4,643.76",Credit Card Payment,,406
+,"Jun 5, 2026",$48.41,,T-Mobile,Bills,Payment,PNC Checking,,"$4,595.35",Phone & Internet,,416
+,"Jun 8, 2026",$2.36,,Kwik Trip,Expenses,Groceries,PNC Checking,,"$4,592.99",Gas & Fuel,,423
+,"Jun 10, 2026",$220.00,,We Energies,Bills,Payment,PNC Checking,,"$4,372.99",Utilities,,428
+,"Jun 11, 2026","$2,482.65",,Transfer to US Bank,Transfer,Deposit=Savings,PNC Checking,Matches US Bank Savings/Checking deposit,"$1,890.34",Transfer,,431
+,"Jun 12, 2026",,"$2,244.87",First Supply Payroll,Income,Deposit=Checking,PNC Checking,,"$4,135.21",Jose's Paycheck 💵,,432
+,"Jun 12, 2026",,"$1,054.00",Deposit,Income,Jose's Scholarship,PNC Checking,,"$5,189.21",Other Income,,433
+,"Jun 15, 2026",$33.59,,Woodman's Gas,Expenses,Gas,PNC Checking,,"$5,155.62",Gas & Fuel,,436
+,"Jun 15, 2026","$1,400.00",,Rocket Mortgage,Bills,Payment,PNC Checking,,"$3,755.62",Mortgage,,437
+,"Jun 15, 2026",$127.23,,Sam's Credit Card Payment,Bills,Payment,PNC Checking,,"$3,628.39",Credit Card Payment,,438
+,"Jun 16, 2026",$2.84,,Kwik Trip,Expenses,Groceries,PNC Checking,,"$3,625.55",Gas & Fuel,,442
+,"Jun 23, 2026",$0.94,,Kwik Trip,Expenses,Groceries,PNC Checking,,"$3,624.61",Gas & Fuel,,452
+,"Jun 24, 2026",,"$1,280.40",Social Security (SSA),Income,Deposit=Checking,PNC Checking,,"$4,905.01",Social Security,,453
+,"Jun 25, 2026",,$0.04,Interest,Income,Deposit=Checking,PNC Checking,,"$4,905.05",Interest,,455
+,"Jun 26, 2026",,"$2,136.87",First Supply Payroll,Income,Deposit=Checking,PNC Checking,,"$7,041.92",Jose's Paycheck 💵,,467
+,"Jun 29, 2026",$7.43,,Kwik Trip,Expenses,Groceries,PNC Checking,,"$7,034.49",Gas & Fuel,,478
+,"Jun 29, 2026",$296.84,,PNC Credit Card Payment,Bills,Payment,PNC Checking,Pays PNC Credit Card (...2106),"$6,737.65",Credit Card Payment,,479
+,"Jun 30, 2026","$2,000.00",,US Bank Credit Card Payment,Bills,Payment,PNC Checking,,"$4,737.65",Credit Card Payment,,491
+,"Jun 30, 2026","$2,000.00",,Transfer to US Bank,Transfer,Deposit=Savings,PNC Checking,Matches US Bank Savings/Checking deposit,"$2,737.65",Transfer,,492
+,"Jul 1, 2026",$3.76,,Kwik Trip,Expenses,Groceries,PNC Checking,,"$2,733.89",Gas & Fuel,,495
+,"Jul 6, 2026",$48.37,,Woodman's Food Market,Expenses,Groceries,PNC Checking,,"$2,685.52",Groceries,,512
+,"Jul 6, 2026",$45.85,,T-Mobile,Bills,Payment,PNC Checking,,"$2,639.67",Phone & Internet,,513
+,"Jul 7, 2026",$4.54,,Kwik Trip,Expenses,Groceries,PNC Checking,,"$2,635.13",Gas & Fuel,,518
+,"Jul 10, 2026",,"$2,285.44",First Supply Payroll,Income,Deposit=Checking,PNC Checking,,"$4,920.57",Jose's Paycheck 💵,,530
+,"Jul 10, 2026",$220.00,,We Energies,Bills,Payment,PNC Checking,,"$4,700.57",Utilities,,531
+,"Jul 13, 2026",$138.87,,City of West Bend (Water/Utilities),Bills,Payment,PNC Checking,,"$4,561.70",Utilities,,546
+,"Jul 14, 2026","$1,400.00",,Rocket Mortgage,Bills,Payment,PNC Checking,,"$3,161.70",Mortgage,,553
+,"Jul 15, 2026",$5.30,,Kwik Trip,Expenses,Groceries,PNC Checking,,"$3,156.40",Gas & Fuel,,557
+,"Jul 16, 2026",$200.00,,ATM / Cash Withdrawal,Debts,Jose,PNC Checking,,"$2,956.40",Cash Withdrawal,,562
+,"Jul 17, 2026",,$6.00,Kwik Trip (Return),Income,Kwik Trip Return,PNC Checking,Return / refund,"$2,962.40",Return's,,568
+,"Jul 17, 2026",$200.00,,Check #307,Expenses,Present,PNC Checking,,"$2,762.40",Checks Written,,569
+,"Jul 17, 2026",$11.86,,Kwik Trip,Expenses,Groceries,PNC Checking,,"$2,750.54",Gas & Fuel,,570
+,"Jul 20, 2026",$400.00,,ATM / Cash Withdrawal,Debts,Dog,PNC Checking,,"$2,350.54",Cash Withdrawal,,572
+,"Jul 20, 2026","$1,500.00",,Transfer to US Bank,Transfer,Deposit=Savings,PNC Checking,Matches US Bank Savings/Checking deposit,$850.54,Transfer,,573
+,"Jul 20, 2026",$85.15,,WI DOT Vehicle Fees,Bills,Vehicle,PNC Checking,,$765.39,Vehicle & Auto,,574
+,"Jul 20, 2026",$1.42,,Kwik Trip,Expenses,Groceries,PNC Checking,,$763.97,Gas & Fuel,,575
+,"Jul 22, 2026",,"$1,280.40",Social Security (SSA),Income,Deposit=Checking,PNC Checking,,"$2,044.37",Social Security,,587
+,"Jul 24, 2026",,"$2,208.91",First Supply Payroll,Income,Deposit=Checking,PNC Checking,,"$4,253.28",Jose's Paycheck 💵,,595
+,"Jul 24, 2026",$2.37,,Kwik Trip,Expenses,Groceries,PNC Checking,,"$4,250.91",Gas & Fuel,,596
+,"Jul 24, 2026",$1.23,,Kwik Trip,Expenses,Groceries,PNC Checking,,"$4,249.68",Gas & Fuel,,597
+,"Jul 24, 2026",,$0.03,Interest,Income,Deposit=Checking,PNC Checking,,"$4,249.71",Interest,,598
+,"Jul 28, 2026",$6.00,,Kwik Trip,Expenses,Groceries,PNC Checking,,"$4,243.71",Gas & Fuel,,607
+,"Jul 28, 2026",$2.84,,Kwik Trip,Expenses,Groceries,PNC Checking,,"$4,240.87",Gas & Fuel,,608
+,"Jul 28, 2026",$92.59,,Woodman's Food Market,Expenses,Groceries,PNC Checking,,"$4,148.28",Groceries,,609
+,"Jul 29, 2026",$0.95,,Kwik Trip,Expenses,Groceries,PNC Checking,,"$4,147.33",Gas & Fuel,,610
+,"Jul 29, 2026",$0.95,,Kwik Trip,Expenses,Groceries,PNC Checking,,"$4,146.38",Gas & Fuel,,611
+,"Jul 30, 2026","$1,000.00",,Transfer to US Bank,Transfer,Deposit=Savings,PNC Checking,Matches US Bank Savings/Checking deposit,"$3,146.38",Transfer,,617
+,"Jul 31, 2026",$5.22,,Kwik Trip,Expenses,Groceries,PNC Checking,,"$3,141.16",Gas & Fuel,,618
+,"Jul 31, 2026",$249.65,,PNC Credit Card Payment,Bills,Payment,PNC Checking,Pays PNC Credit Card (...2106),"$2,891.51",Credit Card Payment,,619
+,"Aug 3, 2026",,"$3,600.00",Deposit,Income,Deposit=Checking,PNC Checking,,"$6,491.51",Other Income,,625
+,"Aug 3, 2026","$1,137.00",,US Bank Credit Card Payment,Bills,Payment,PNC Checking,,"$5,354.51",Credit Card Payment,,626
+,"Aug 3, 2026",$35.08,,Kwik Trip,Expenses,Gas,PNC Checking,,"$5,319.43",Gas & Fuel,,627
+,"Aug 5, 2026",$45.86,,T-Mobile,Bills,Payment,PNC Checking,,"$5,273.57",Phone & Internet,,636
+,"Aug 5, 2026",$0.94,,Kwik Trip,Expenses,Groceries,PNC Checking,,"$5,272.63",Gas & Fuel,,637
+,"Aug 7, 2026",,"$2,225.28",First Supply Payroll,Income,Deposit=Checking,PNC Checking,,"$7,497.91",Jose's Paycheck 💵,,641
+,"Aug 10, 2026",$253.00,,We Energies,Bills,Payment,PNC Checking,,"$7,244.91",Utilities,,644
+,"Aug 12, 2026",$5.68,,Kwik Trip,Expenses,Groceries,PNC Checking,,"$7,239.23",Gas & Fuel,,647
+,"Aug 17, 2026","$1,400.00",,Rocket Mortgage,Bills,Payment,PNC Checking,,"$5,839.23",Mortgage,,653
+,"Aug 17, 2026",$28.00,,Sam's Credit Card Payment,Bills,Payment,PNC Checking,,"$5,811.23",Credit Card Payment,,654
+,"Aug 17, 2026","$1,054.00",,Check #311,Expenses,Jose's Scholarship,PNC Checking,,"$4,757.23",Checks Written,,655
+,"Aug 18, 2026",$3.22,,Kwik Trip,Expenses,Groceries,PNC Checking,,"$4,754.01",Gas & Fuel,,661
+,"Aug 19, 2026",$25.59,,Woodman's Food Market (Fuel),Expenses,Groceries,PNC Checking,,"$4,728.42",Gas & Fuel,,669
+,"Aug 21, 2026",,"$2,136.87",First Supply Payroll,Income,Deposit=Checking,PNC Checking,,"$6,865.29",Jose's Paycheck 💵,,674
+,"Aug 25, 2026",,$48.65,Deposit,Income,Deposit=Checking,PNC Checking,,"$6,913.94",Other Income,,676
+,"Aug 26, 2026",,"$1,280.40",Social Security (SSA),Income,Deposit=Checking,PNC Checking,,"$8,194.34",Social Security,,678
+,"Aug 26, 2026",,$0.05,Interest,Income,Deposit=Checking,PNC Checking,,"$8,194.39",Interest,,679
+,"Aug 31, 2026",$85.00,,Zelle to Kyle Christie,Expenses,Personal,PNC Checking,,"$8,109.39",Personal & Gifts,,683
+,"Sep 1, 2026","$2,229.00",,Erie Car Insurance,Bills,Payment,PNC Checking,,"$5,880.39",Insurance,,689
+,"Sep 1, 2026",$1.42,,Kwik Trip,Expenses,Groceries,PNC Checking,,"$5,878.97",Gas & Fuel,,690
+,"Sep 1, 2026",$250.00,,PNC Credit Card Payment,Bills,Payment,PNC Checking,Pays PNC Credit Card (...2106),"$5,628.97",Credit Card Payment,,691
+,"Sep 2, 2026","$5,132.86",,US Bank Credit Card Payment,Bills,Payment,PNC Checking,,$496.11,Credit Card Payment,,695
+,"Sep 3, 2026",$104.11,,Kwik Trip,Expenses,Cigs,PNC Checking,,$392.00,Gas & Fuel,,702
+,"Sep 4, 2026",,"$2,338.74",First Supply Payroll,Income,Deposit=Checking,PNC Checking,,"$2,730.74",Jose's Paycheck 💵,,703
+,"Sep 8, 2026",$45.86,,T-Mobile,Bills,Payment,PNC Checking,,"$2,684.88",Phone & Internet,,708
+,"Sep 9, 2026",$253.00,,We Energies,Bills,Payment,PNC Checking,,"$2,431.88",Utilities,,714
+,"Sep 9, 2026",$4.26,,Kwik Trip,Expenses,Groceries,PNC Checking,,"$2,427.62",Gas & Fuel,,715
+,"Sep 10, 2026",$200.00,,Check #308,Expenses,Funeral,PNC Checking,,"$2,227.62",Checks Written,,718
+,"Sep 11, 2026",$10.48,,Woodman's Food Market,Expenses,Groceries,PNC Checking,,"$2,217.14",Groceries,,720
+,"Sep 14, 2026",$28.52,,Sam's Credit Card Payment,Bills,Payment,PNC Checking,,"$2,188.62",Credit Card Payment,,727
+,"Sep 16, 2026",,"$1,000.00",Real-Time Payment (Kelly Marie Tank-Rivera),Transfer,Deposit=Checking,PNC Checking,Matches US Bank Savings,"$3,188.62",Transfer,,729
+,"Sep 16, 2026","$1,400.00",,Rocket Mortgage,Bills,Payment,PNC Checking,,"$1,788.62",Mortgage,,730
+,"Sep 16, 2026","$1,000.00",,ATM / Cash Withdrawal,Debts,Vehicle,PNC Checking,,$788.62,Cash Withdrawal,,731
+,"Sep 18, 2026",,"$2,216.86",First Supply Payroll,Income,Deposit=Checking,PNC Checking,,"$3,005.48",Jose's Paycheck 💵,,735
+,"Sep 23, 2026",,"$1,280.40",Social Security (SSA),Income,Deposit=Checking,PNC Checking,,"$4,285.88",Social Security,,738
+,"Sep 24, 2026",$82.17,,Woodman's Food Market,Expenses,Groceries,PNC Checking,,"$4,203.71",Groceries,,740
+,"Sep 25, 2026",,$0.03,Interest,Income,Deposit=Checking,PNC Checking,,"$4,203.74",Interest,,743
+,"Oct 1, 2026",$386.84,,PNC Credit Card Payment,Bills,Payment,PNC Checking,Pays PNC Credit Card (...2106),"$3,816.90",Credit Card Payment,,749
+,"Oct 2, 2026",,"$2,244.87",First Supply Payroll,Income,Deposit=Checking,PNC Checking,,"$6,061.77",Jose's Paycheck 💵,,752
+,"Oct 2, 2026","$1,335.44",,US Bank Credit Card Payment,Bills,Payment,PNC Checking,,"$4,726.33",Credit Card Payment,,753
+,"Oct 5, 2026",$45.86,,T-Mobile,Bills,Payment,PNC Checking,,"$4,680.47",Phone & Internet,,765
+,"Oct 5, 2026",$100.00,,Check #306,Expenses,Funeral,PNC Checking,Sue and Tom for Sue's mom's funeral ,"$4,580.47",Checks Written,,766
+,"Oct 8, 2026",$253.00,,We Energies,Bills,Payment,PNC Checking,,"$4,327.47",Utilities,,769
+,"Oct 8, 2026","$2,000.00",,ATM / Cash Withdrawal,Debts,Home Improvements,PNC Checking,Backyard Concrete,"$2,327.47",Cash Withdrawal,,770
+,"Oct 8, 2026","$2,000.00",,ATM / Cash Withdrawal,Debts,Home Improvements,PNC Checking,Backyard Concrete,$327.47,Cash Withdrawal,,771
+,"Oct 9, 2026",,"$4,200.00",Real-Time Payment (Kelly Marie Tank-Rivera),Transfer,Deposit=Checking,PNC Checking,Matches US Bank Savings,"$4,527.47",Transfer,,772
+,"Oct 13, 2026","$2,000.00",,ATM / Cash Withdrawal,Debts,Cash,PNC Checking,Backyard Concrete,"$2,527.47",Cash Withdrawal,,782
+,"Oct 13, 2026",$5.30,,Kwik Trip,Expenses,Groceries,PNC Checking,,"$2,522.17",Gas & Fuel,,783
+,"Oct 14, 2026",$138.87,,City of West Bend (Water/Utilities),Bills,Payment,PNC Checking,,"$2,383.30",Utilities,,785
+,"Oct 14, 2026",$89.15,,Sam's Credit Card Payment,Bills,Payment,PNC Checking,,"$2,294.15",Credit Card Payment,,786
+,"Oct 15, 2026","$1,400.79",,Rocket Mortgage,Bills,Payment,PNC Checking,,$893.36,Mortgage,,789
+,"Oct 16, 2026",,"$2,209.83",First Supply Payroll,Income,Deposit=Checking,PNC Checking,,"$3,103.19",Jose's Paycheck 💵,,790
+,"Oct 20, 2026",$300.00,,ATM / Cash Withdrawal,Debts,Home Improvements,PNC Checking,,"$2,803.19",Cash Withdrawal,,799
+,"Oct 22, 2026","$2,000.00",,Transfer to US Bank,Transfer,Deposit=Savings,PNC Checking,Matches US Bank Savings/Checking deposit,$803.19,Transfer,,803
+,"Oct 27, 2026",,$0.02,Interest,Income,Deposit=Checking,PNC Checking,,$803.21,Interest,,811
+,"Oct 28, 2026",,"$1,280.40",Social Security (SSA),Income,Deposit=Checking,PNC Checking,,"$2,083.61",Social Security,,814
+,"Oct 28, 2026",$15.75,,Kwik Trip,Expenses,Groceries,PNC Checking,,"$2,067.86",Gas & Fuel,,815
+,"Oct 29, 2026",$28.74,,Woodman's Gas,Expenses,Gas,PNC Checking,,"$2,039.12",Gas & Fuel,,816
+,"Oct 30, 2026",,"$2,262.74",First Supply Payroll,Income,Deposit=Checking,PNC Checking,,"$4,301.86",Jose's Paycheck 💵,,818
+,"Oct 30, 2026",$73.31,,Kwik Trip,Expenses,Groceries,PNC Checking,,"$4,228.55",Gas & Fuel,,819
+,"Nov 2, 2026",$138.22,,PNC Credit Card Payment,Bills,Payment,PNC Checking,,"$4,090.33",Credit Card Payment,,821
+,"Nov 2, 2026",$421.28,,PNC Credit Card Payment,Bills,Payment,PNC Checking,,"$3,669.05",Credit Card Payment,,822
+,"Nov 2, 2026",$1.42,,Kwik Trip,Expenses,Groceries,PNC Checking,,"$3,667.63",Groceries,,823
+,"Nov 3, 2026",$261.53,,US Bank Credit Card Payment,Bills,Payment,PNC Checking,,"$3,406.10",Credit Card Payment,,824
+,"Nov 5, 2026",$46.44,,T-Mobile,Bills,Payment,PNC Checking,,"$3,359.66",Phone & Internet,,825
+,"Nov 6, 2026",$1.84,,Kwik Trip,Expenses,Groceries,PNC Checking,,"$3,357.82",Groceries,,826
+,"Nov 9, 2026",$253.00,,We Energies,Bills,Payment,PNC Checking,,"$3,104.82",Utilities,,827
